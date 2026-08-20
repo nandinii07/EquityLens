@@ -1,0 +1,50 @@
+name: Refresh screener snapshot
+
+# Regenerates data/screener-snapshot.json — the precomputed data
+# app/screener/page.tsx reads — and commits it if it changed. This is the
+# ONLY place multi-company SEC EDGAR ingestion happens; the deployed
+# Vercel app only ever reads the committed JSON (lib/screener-snapshot.ts),
+# so a visitor opening /screener never triggers a single SEC request, and
+# a redeploy is never blocked on an ingestion run.
+#
+# SEC filers publish new annual/quarterly figures at most a few times a
+# year (see lib/company-cache.ts's identical reasoning for the 24h
+# per-company cache), so a weekly run is already conservative, not a
+# minimum required cadence.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Every Monday at 06:00 UTC
+  workflow_dispatch: {} # Allows a manual run from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci
+
+      - name: Generate screener snapshot
+        env:
+          # Identifies this app to SEC EDGAR per its fair-access policy
+          # (see lib/sec-client.ts) — set this repo secret to a real
+          # contact address/URL for a production deployment.
+          SEC_USER_AGENT_CONTACT: ${{ secrets.SEC_USER_AGENT_CONTACT }}
+        run: NODE_OPTIONS="--conditions=react-server" npx tsx scripts/generate-screener-snapshot.ts
+
+      - name: Commit updated snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/screener-snapshot.json
+          git diff --cached --quiet && echo "No changes to commit." && exit 0
+          git commit -m "chore: refresh screener snapshot"
+          git push

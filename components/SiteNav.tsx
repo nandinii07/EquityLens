@@ -13,6 +13,11 @@ import { ArrowRight } from "lucide-react";
  * "Search" -> "/" on the analyzer, sending the user back to the
  * marketing page's search rather than duplicating a second search box
  * in the header.
+ *
+ * The "Screener" link is a fixed, always-present addition (not one of the
+ * two configurable slots above) so every page gains one route into the
+ * multi-company screener without changing the existing single-link
+ * contract any caller already relies on.
  */
 export function SiteNav({
   linkHref = "#hero",
@@ -32,13 +37,21 @@ export function SiteNav({
         <Link href="/" className="text-sm font-semibold tracking-[0.2em] text-mkt-ink">
           EQUITYLENS
         </Link>
-        <Link
-          href={linkHref}
-          className="group flex items-center gap-1.5 text-sm font-medium text-mkt-ink-muted transition-colors duration-200 hover:text-mkt-ink"
-        >
-          {linkLabel}
-          <ArrowRight size={14} className="transition-transform duration-200 group-hover:translate-x-0.5" />
-        </Link>
+        <div className="flex items-center gap-6">
+          <Link
+            href="/screener"
+            className="text-sm font-medium text-mkt-ink-muted transition-colors duration-200 hover:text-mkt-ink"
+          >
+            Screener
+          </Link>
+          <Link
+            href={linkHref}
+            className="group flex items-center gap-1.5 text-sm font-medium text-mkt-ink-muted transition-colors duration-200 hover:text-mkt-ink"
+          >
+            {linkLabel}
+            <ArrowRight size={14} className="transition-transform duration-200 group-hover:translate-x-0.5" />
+          </Link>
+        </div>
       </div>
     </motion.header>
   );
