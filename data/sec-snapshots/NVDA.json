@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "ticker": "NVDA",
+  "cik": 1045810,
+  "companyName": "NVIDIA CORP",
+  "source": "sec-snapshot",
+  "fetchedAt": "2026-08-20T02:44:13.778Z",
+  "latestFiscalPeriod": "FY2026",
+  "financialData": {
+    "profile": {
+      "ticker": "NVDA",
+      "name": "NVIDIA CORP",
+      "sector": "Technology",
+      "industry": "Semiconductors & Related Devices",
+      "exchange": "Nasdaq",
+      "currency": "USD",
+      "latestPrice": 217.56,
+      "priceAsOf": "2026-08-19",
+      "marketCap": 5264.952,
+      "lastUpdated": "2026-08-20",
+      "description": ""
+    },
+    "revenue": {
+      "history": [
+        {
+          "year": "FY2022",
+          "value": 26.914
+        },
+        {
+          "year": "FY2023",
+          "value": 26.974
+        },
+        {
+          "year": "FY2024",
+          "value": 60.922
+        },
+        {
+          "year": "FY2025",
+          "value": 130.497
+        },
+        {
+          "year": "FY2026",
+          "value": 215.938
+        }
+      ],
+      "yoyGrowth": 0.6547353579009476,
+      "cagr3yr": 1.0004509499443963
+    },
+    "profitability": {
+      "netIncomeHistory": [
+        {
+          "year": "FY2022",
+          "value": 9.752
+        },
+        {
+          "year": "FY2023",
+          "value": 4.368
+        },
+        {
+          "year": "FY2024",
+          "value": 29.76
+        },
+        {
+          "year": "FY2025",
+          "value": 72.88
+        },
+        {
+          "year": "FY2026",
+          "value": 120.067
+        }
+      ],
+      "netMargin": 0.5560253406070261,
+      "operatingMargin": 0.6038168363141272,
+      "roe": 0.7633333969089533,
+      "netIncomeGrowth": 0.6474615806805708
+    },
+    "valuation": {
+      "pe": 43.850117017998286,
+      "ps": 24.38177625059045,
+      "pb": 33.47225877820374,
+      "evToEbitda": 39.50172633791189
+    },
+    "debt": {
+      "totalDebtHistory": [
+        {
+          "year": "FY2022",
+          "value": 10.946
+        },
+        {
+          "year": "FY2023",
+          "value": 10.953
+        },
+        {
+          "year": "FY2024",
+          "value": 9.709
+        },
+        {
+          "year": "FY2025",
+          "value": 8.463
+        },
+        {
+          "year": "FY2026",
+          "value": 8.468
+        }
+      ],
+      "totalDebt": 8.468,
+      "debtToEquity": 0.053835835033981164,
+      "debtToAssets": 0.04094718161728795,
+      "netDebt": -2.1370000000000005,
+      "interestCoverage": 503.4247104247104
+    },
+    "cashFlow": {
+      "operatingCashFlowHistory": [
+        {
+          "year": "FY2022",
+          "value": 9.108
+        },
+        {
+          "year": "FY2023",
+          "value": 5.641
+        },
+        {
+          "year": "FY2024",
+          "value": 28.09
+        },
+        {
+          "year": "FY2025",
+          "value": 64.089
+        },
+        {
+          "year": "FY2026",
+          "value": 102.718
+        }
+      ],
+      "freeCashFlowHistory": [
+        {
+          "year": "FY2022",
+          "value": 8.132000000000001
+        },
+        {
+          "year": "FY2023",
+          "value": 3.808
+        },
+        {
+          "year": "FY2024",
+          "value": 27.021
+        },
+        {
+          "year": "FY2025",
+          "value": 60.853
+        },
+        {
+          "year": "FY2026",
+          "value": 96.676
+        }
+      ],
+      "operatingCashFlow": 102.718,
+      "freeCashFlow": 96.676,
+      "fcfGrowth": 0.5886809195931179,
+      "ocfToNetIncome": 0.8555056759975681
+    }
+  },
+  "score": {
+    "overall": 81,
+    "maxScore": 100,
+    "rating": "Strong",
+    "breakdown": [
+      {
+        "category": "Revenue Growth",
+        "score": 20,
+        "maxScore": 20,
+        "rationale": "Revenue grew 65.5% year-over-year (excellent), and the 3-year CAGR is 100.0% (excellent)."
+      },
+      {
+        "category": "Profitability",
+        "score": 20,
+        "maxScore": 20,
+        "rationale": "Net margin is excellent at 55.6%; ROE is excellent at 76.3%; net income growth is 64.7%."
+      },
+      {
+        "category": "Valuation",
+        "score": 3,
+        "maxScore": 20,
+        "rationale": "P/E of 43.9x is weak; P/S of 24.4x is weak; P/B of 33.5x is poor."
+      },
+      {
+        "category": "Debt",
+        "score": 20,
+        "maxScore": 20,
+        "rationale": "Debt-to-equity of 0.05 is excellent; the company holds a net cash position; interest is covered 503.4x by operating income."
+      },
+      {
+        "category": "Cash Flow",
+        "score": 18,
+        "maxScore": 20,
+        "rationale": "Free cash flow is positive at 44.8% of revenue; FCF growth is 58.9% year-over-year; cash generation is a weaker match for reported earnings."
+      }
+    ]
+  },
+  "insights": [
+    {
+      "type": "strength",
+      "text": "Revenue grew 65.5% year-over-year, a strong pace."
+    },
+    {
+      "type": "strength",
+      "text": "Net margin remains strong at 55.6%."
+    },
+    {
+      "type": "watch",
+      "text": "Valuation is elevated at 43.9x P/E relative to the broader market."
+    },
+    {
+      "type": "strength",
+      "text": "The company holds more cash than debt (a net cash position)."
+    },
+    {
+      "type": "strength",
+      "text": "Free cash flow remains positive and is growing quickly, up 58.9%."
+    }
+  ]
+}

@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# dev-only persistent cache (lib/persistent-cache.ts) — never committed;
+# the bundled data/sec-snapshots/*.json fixtures are separate and ARE committed
+.cache/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

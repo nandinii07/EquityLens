@@ -1,26 +1,168 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  /* Site-wide surface & text scale. These now ALIAS the --mkt-* dark
+     palette defined below — the whole product (marketing homepage +
+     analyzer) is one dark visual identity as of the analysis-page
+     retheme. Every component (CompanyHeader, InvestmentScore,
+     ScoreBreakdown, MetricCard, FinancialChart, Insights, AIAnalysis,
+     etc.) already uses these token names via Tailwind utilities
+     (bg-surface, text-foreground, border-border, ...) — aliasing them
+     here retheme's the entire analyzer with no component-file changes,
+     which is what guarantees the two are pixel-identical rather than
+     merely "similar". See --mkt-* below for the source values and their
+     own contrast notes.
+     Previously (Stage 7 and earlier) this was a separate light theme,
+     used only by the analyzer while the marketing homepage was dark;
+     that light palette is retired now that the whole product is dark. */
+  --background: var(--mkt-bg);
+  --surface: var(--mkt-surface);
+  --foreground: var(--mkt-ink);
+  --muted: var(--mkt-ink-muted);
+  --subtle: var(--mkt-ink-subtle);
+  --border: var(--mkt-border);
+  --border-strong: var(--mkt-border-strong);
+
+  /* Brand */
+  --brand: var(--mkt-accent);
+  --brand-strong: var(--mkt-accent-strong);
+
+  /* Semantic (positive/negative deltas). The light "-bg" tints below are
+     kept as-is — they're only used as small colored-chip backgrounds
+     (e.g. the Investment Score rating pill), a deliberate "status chip"
+     treatment that reads fine regardless of page background, not a
+     surface color that needs to track the page theme. */
+  --positive: var(--mkt-positive);
+  --positive-bg: #e7f5ec;
+  --negative: var(--mkt-negative);
+  --negative-bg: #fbeae9;
+  /* Neutral "watch/caution" accent — used where positive/negative don't
+     apply (e.g. the Insights "watch" icon). Validated for contrast the
+     same way as the --mkt-* set (10.4:1 on --mkt-bg, comfortably >4.5:1). */
+  --warning: #e0954a;
+
+  /* Rating bands: text colors sit on their own light --bg tint (the
+     "status chip" pattern above), so they're unchanged from the
+     original light-mode contrast pass (all already >=4.5:1 against
+     their own -bg). */
+  --rating-exceptional: #0b6e4f;
+  --rating-exceptional-bg: #e4f4ee;
+  --rating-strong: #227048;
+  --rating-strong-bg: #eaf6f0;
+  --rating-moderate: #8f5a0d;
+  --rating-moderate-bg: #faf1e0;
+  --rating-weak: #9a4a15;
+  --rating-weak-bg: #fbeee2;
+  --rating-high-risk: #b3261e;
+  --rating-high-risk-bg: #fbeae9;
+
+  /* Chart series colors — re-tuned for the dark surface they now always
+     render on (previously tuned for a light surface). Re-validated with
+     scripts/validate_palette.js --mode dark: lightness band, chroma
+     floor, CVD separation, and >=3:1 contrast against --mkt-surface all
+     pass. (CVD separation is close to the floor for two adjacent pairs,
+     but each chart is single-series and independently titled, so no
+     chart ever asks a reader to distinguish two of these hues at once.) */
+  --chart-revenue: #4c82ff;
+  --chart-income: #1fa87a;
+  --chart-fcf: #8a68d6;
+  --chart-debt: #d47830;
+
+  /* The dark palette itself — bg 18.2:1, ink-muted 7.6:1, ink-subtle
+     5.2:1, accent 5.6:1, all measured against --mkt-bg. */
+  --mkt-bg: #0a0b0d;
+  --mkt-surface: #131519;
+  --mkt-surface-2: #1a1d24;
+  --mkt-ink: #f5f6f8;
+  --mkt-ink-muted: #9aa1b0;
+  --mkt-ink-subtle: #7c8494;
+  --mkt-border: rgba(255, 255, 255, 0.1);
+  --mkt-border-strong: rgba(255, 255, 255, 0.18);
+  --mkt-accent: #4c82ff;
+  --mkt-accent-strong: #6e93ff;
+  --mkt-positive: #34d399;
+  --mkt-negative: #f87171;
 }
 
 @theme inline {
   --color-background: var(--background);
+  --color-surface: var(--surface);
   --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-subtle: var(--subtle);
+  --color-border: var(--border);
+  --color-border-strong: var(--border-strong);
+  --color-brand: var(--brand);
+  --color-brand-strong: var(--brand-strong);
+  --color-positive: var(--positive);
+  --color-positive-bg: var(--positive-bg);
+  --color-negative: var(--negative);
+  --color-negative-bg: var(--negative-bg);
+  --color-warning: var(--warning);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --color-mkt-bg: var(--mkt-bg);
+  --color-mkt-surface: var(--mkt-surface);
+  --color-mkt-surface-2: var(--mkt-surface-2);
+  --color-mkt-ink: var(--mkt-ink);
+  --color-mkt-ink-muted: var(--mkt-ink-muted);
+  --color-mkt-ink-subtle: var(--mkt-ink-subtle);
+  --color-mkt-border: var(--mkt-border);
+  --color-mkt-border-strong: var(--mkt-border-strong);
+  --color-mkt-accent: var(--mkt-accent);
+  --color-mkt-accent-strong: var(--mkt-accent-strong);
+  --color-mkt-positive: var(--mkt-positive);
+  --color-mkt-negative: var(--mkt-negative);
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Tabular alignment for financial figures wherever the .num class is used. */
+.num {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Blanket safety net for prefers-reduced-motion: every component below
+   also checks it in JS (via Motion's useReducedMotion) before choosing an
+   entrance animation, but this catches plain CSS animations/transitions
+   (e.g. Tailwind's animate-pulse skeletons) too, with no per-component
+   opt-in required. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* Static (non-animated) background grid used behind marketing sections. */
+.mkt-grid-bg {
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 64px 64px;
+}
+
+/* One-element shimmer sweep for loading skeletons (app/company/[ticker]/loading.tsx).
+   A single translateX-animated gradient overlay reads as premium without
+   animating dozens of individual bars. */
+@keyframes shimmer-sweep {
+  from {
+    transform: translateX(-100%);
+  }
+  to {
+    transform: translateX(100%);
+  }
+}
+.mkt-shimmer {
+  animation: shimmer-sweep 1.8s ease-in-out infinite;
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.5), transparent);
 }
