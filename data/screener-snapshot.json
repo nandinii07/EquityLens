@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-14T11:12:15.807Z",
+  "generatedAt": "2026-09-21T11:23:24.369Z",
   "universeRequested": 551,
   "succeeded": 516,
   "failed": 35,
@@ -9,7 +9,7 @@
       "ticker": "A",
       "companyName": "AGILENT TECHNOLOGIES, INC.",
       "sector": "Health Care",
-      "score": 58,
+      "score": 57,
       "rating": "Weak",
       "revenueGrowth": 0.0672811059907835,
       "netMargin": 0.18753598157743234,
@@ -17,7 +17,7 @@
       "debtToEquity": 0.4975522919448154,
       "freeCashFlow": 1.152,
       "fcfGrowth": -0.16096139839766926,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AAL",
@@ -31,7 +31,7 @@
       "debtToEquity": null,
       "freeCashFlow": -0.6799999999999997,
       "fcfGrowth": -1.5230769230769228,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AAP",
@@ -45,7 +45,7 @@
       "debtToEquity": 1.5523202911737943,
       "freeCashFlow": -0.298,
       "fcfGrowth": -2.104166666666667,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AAPL",
@@ -59,7 +59,7 @@
       "debtToEquity": 1.2298156863276957,
       "freeCashFlow": 98.767,
       "fcfGrowth": -0.09227347505215662,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ABBV",
@@ -73,7 +73,7 @@
       "debtToEquity": null,
       "freeCashFlow": 17.816000000000003,
       "fcfGrowth": -0.0008972633467921846,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ABNB",
@@ -87,7 +87,7 @@
       "debtToEquity": 0.24381022075862913,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ABT",
@@ -101,7 +101,7 @@
       "debtToEquity": 0.2480145789372722,
       "freeCashFlow": 7.395000000000001,
       "fcfGrowth": 0.16438356164383583,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ACM",
@@ -115,7 +115,7 @@
       "debtToEquity": 0.026598902985817127,
       "freeCashFlow": 0.6849270000000001,
       "fcfGrowth": -0.032442756179252984,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ACN",
@@ -129,7 +129,7 @@
       "debtToEquity": 0.0036698946378263034,
       "freeCashFlow": 10.87436,
       "fcfGrowth": 0.2623294768204093,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ADBE",
@@ -143,7 +143,7 @@
       "debtToEquity": 0.5342854684676934,
       "freeCashFlow": 9.852,
       "fcfGrowth": 0.2513654261399722,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ADI",
@@ -157,7 +157,7 @@
       "debtToEquity": 0.2408660105326644,
       "freeCashFlow": 4.27865,
       "fcfGrowth": 0.3704546925016958,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ADM",
@@ -171,7 +171,7 @@
       "debtToEquity": 0.33474054529463504,
       "freeCashFlow": 4.204,
       "fcfGrowth": 2.426242868785655,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ADP",
@@ -185,7 +185,7 @@
       "debtToEquity": 0.8232358402971216,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ADSK",
@@ -199,7 +199,7 @@
       "debtToEquity": 0.8210180623973727,
       "freeCashFlow": 2.409,
       "fcfGrowth": 0.5373324824505423,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AEE",
@@ -213,7 +213,7 @@
       "debtToEquity": 1.4317588239683607,
       "freeCashFlow": -0.7749999999999999,
       "fcfGrowth": 0.5019280205655527,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AEP",
@@ -227,7 +227,7 @@
       "debtToEquity": 1.5197507868199627,
       "freeCashFlow": 3.491,
       "fcfGrowth": -0.45495706479313036,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AES",
@@ -241,7 +241,7 @@
       "debtToEquity": null,
       "freeCashFlow": -1.6230000000000002,
       "fcfGrowth": 0.6502155172413793,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AFL",
@@ -255,7 +255,7 @@
       "debtToEquity": null,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AFRM",
@@ -269,7 +269,7 @@
       "debtToEquity": 1.7859905788369574,
       "freeCashFlow": 0.9926280000000001,
       "fcfGrowth": 0.6496510004653328,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AIG",
@@ -283,7 +283,7 @@
       "debtToEquity": 0.22341330610855878,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AJG",
@@ -297,7 +297,7 @@
       "debtToEquity": 0.5464602718579821,
       "freeCashFlow": 1.785,
       "fcfGrowth": -0.2687423187218354,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AKAM",
@@ -311,7 +311,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.0109789999999998,
       "fcfGrowth": -0.1043280194340938,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ALB",
@@ -325,7 +325,7 @@
       "debtToEquity": 0.3349857054670623,
       "freeCashFlow": 0.692466,
       "fcfGrowth": 1.6975912025652469,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ALGN",
@@ -339,7 +339,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.49077799999999994,
       "fcfGrowth": -0.21179280206728976,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ALK",
@@ -353,7 +353,7 @@
       "debtToEquity": 1.2892180670228266,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ALL",
@@ -367,7 +367,7 @@
       "debtToEquity": 0.24469127736033977,
       "freeCashFlow": 9.882,
       "fcfGrowth": 0.1331269349845203,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ALLE",
@@ -381,7 +381,7 @@
       "debtToEquity": 0.9576804023989166,
       "freeCashFlow": 0.6857000000000001,
       "fcfGrowth": 0.17635958140332816,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AMAT",
@@ -395,7 +395,7 @@
       "debtToEquity": 0.31618907665931917,
       "freeCashFlow": 5.698,
       "fcfGrowth": -0.23894750901562706,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AMCR",
@@ -409,7 +409,7 @@
       "debtToEquity": 0.011450381679389315,
       "freeCashFlow": 1.2289999999999996,
       "fcfGrowth": 0.5172839506172836,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AMD",
@@ -423,7 +423,7 @@
       "debtToEquity": 0.051143668947126145,
       "freeCashFlow": 6.734999999999999,
       "fcfGrowth": 1.8004158004158006,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AME",
@@ -437,7 +437,7 @@
       "debtToEquity": 0.21482312279125765,
       "freeCashFlow": 1.671515,
       "fcfGrowth": -0.017780279743538,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AMGN",
@@ -451,7 +451,7 @@
       "debtToEquity": 6.306768306768307,
       "freeCashFlow": 8.1,
       "fcfGrowth": -0.2207042524533385,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AMP",
@@ -465,7 +465,7 @@
       "debtToEquity": null,
       "freeCashFlow": 8.161,
       "fcfGrowth": 0.27138183517681885,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AMT",
@@ -479,7 +479,7 @@
       "debtToEquity": 0.9275290896646133,
       "freeCashFlow": 3.7836000000000007,
       "fcfGrowth": 0.02245642480745868,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AMZN",
@@ -493,7 +493,7 @@
       "debtToEquity": 0.16638731100920778,
       "freeCashFlow": 7.695000000000022,
       "fcfGrowth": -0.7659529168440896,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ANET",
@@ -507,7 +507,7 @@
       "debtToEquity": null,
       "freeCashFlow": 4.2524,
       "fcfGrowth": 0.15673793591208302,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AON",
@@ -521,7 +521,7 @@
       "debtToEquity": 1.6305603079555175,
       "freeCashFlow": 3.218,
       "fcfGrowth": 0.1423500177493787,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AOS",
@@ -535,7 +535,7 @@
       "debtToEquity": 0.08342303552206673,
       "freeCashFlow": 0.546,
       "fcfGrowth": 0.15238497256226266,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "APA",
@@ -549,7 +549,7 @@
       "debtToEquity": 0.034958148695224026,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "APD",
@@ -563,7 +563,7 @@
       "debtToEquity": 0.0023094995640569986,
       "freeCashFlow": -3.7657999999999996,
       "fcfGrowth": -0.19549206349206322,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "APH",
@@ -577,7 +577,7 @@
       "debtToEquity": null,
       "freeCashFlow": 4.3781,
       "fcfGrowth": 1.0369887870469452,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "APO",
@@ -591,7 +591,7 @@
       "debtToEquity": 0.5725547320166231,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "APTV",
@@ -605,7 +605,7 @@
       "debtToEquity": 0.8201368523949168,
       "freeCashFlow": 1.529,
       "fcfGrowth": -0.05383663366336645,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AR",
@@ -619,7 +619,7 @@
       "debtToEquity": 0.18514210430195263,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ARE",
@@ -633,7 +633,7 @@
       "debtToEquity": 0.8015836386002132,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ATO",
@@ -647,7 +647,7 @@
       "debtToEquity": null,
       "freeCashFlow": -1.511943,
       "fcfGrowth": -0.25641568983311996,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AVGO",
@@ -661,7 +661,7 @@
       "debtToEquity": 0.0387738030802539,
       "freeCashFlow": 26.913999999999998,
       "fcfGrowth": 0.3863191511280517,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AVY",
@@ -675,7 +675,7 @@
       "debtToEquity": 1.660006244146113,
       "freeCashFlow": 0.7123999999999999,
       "fcfGrowth": -0.024109589041095975,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AWI",
@@ -689,7 +689,7 @@
       "debtToEquity": 0.451537692905518,
       "freeCashFlow": 0.24609999999999999,
       "fcfGrowth": 0.33749999999999997,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AWK",
@@ -703,7 +703,7 @@
       "debtToEquity": 0.14653501891667436,
       "freeCashFlow": -1.0669999999999997,
       "fcfGrowth": -0.3156596794081379,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AXP",
@@ -717,13 +717,13 @@
       "debtToEquity": 1.7254585648563066,
       "freeCashFlow": 16.003,
       "fcfGrowth": 0.31831287585468315,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AXTA",
       "companyName": "Axalta Coating Systems Ltd.",
       "sector": "Materials",
-      "score": 42,
+      "score": 43,
       "rating": "Weak",
       "revenueGrowth": -0.030136467020470018,
       "netMargin": 0.07387140902872777,
@@ -731,7 +731,7 @@
       "debtToEquity": 1.3635976129582266,
       "freeCashFlow": 0.453,
       "fcfGrowth": 0.03899082568807356,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "AZO",
@@ -745,7 +745,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.7900800000000001,
       "fcfGrowth": -0.07317931884313075,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BA",
@@ -759,7 +759,7 @@
       "debtToEquity": 11.424459112577924,
       "freeCashFlow": -1.8770000000000002,
       "fcfGrowth": 0.8688329839273236,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BAC",
@@ -773,7 +773,7 @@
       "debtToEquity": 1.0480571686733082,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BALL",
@@ -787,7 +787,7 @@
       "debtToEquity": 0.00036893562073418186,
       "freeCashFlow": 0.788,
       "fcfGrowth": 3.13550135501355,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BAX",
@@ -801,7 +801,7 @@
       "debtToEquity": 1.540055473976179,
       "freeCashFlow": 0.33199999999999996,
       "fcfGrowth": -0.42059336823734733,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BBY",
@@ -815,7 +815,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.258,
       "fcfGrowth": -0.09626436781609189,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BDX",
@@ -829,7 +829,7 @@
       "debtToEquity": 0.7554549035053171,
       "freeCashFlow": 2.67,
       "fcfGrowth": -0.1439563962808592,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BEN",
@@ -843,7 +843,7 @@
       "debtToEquity": 0.19556541754293003,
       "freeCashFlow": 0.9116000000000001,
       "fcfGrowth": 0.14782170737849415,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BG",
@@ -857,7 +857,7 @@
       "debtToEquity": 0.6393360160965794,
       "freeCashFlow": -0.8790000000000001,
       "fcfGrowth": -2.677480916030534,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BIIB",
@@ -871,7 +871,7 @@
       "debtToEquity": 0.34435388457999216,
       "freeCashFlow": 2.0508,
       "fcfGrowth": -0.24652803291939152,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BJ",
@@ -885,7 +885,7 @@
       "debtToEquity": 0.23620543496511517,
       "freeCashFlow": 0.3280080000000001,
       "fcfGrowth": 0.04832065045431481,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BKH",
@@ -899,7 +899,7 @@
       "debtToEquity": 1.2294957631551418,
       "freeCashFlow": -0.14639999999999997,
       "fcfGrowth": -4.879518072289174,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BKNG",
@@ -913,7 +913,7 @@
       "debtToEquity": null,
       "freeCashFlow": 9.087000000000002,
       "fcfGrowth": 0.15112743856093253,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BKR",
@@ -927,7 +927,7 @@
       "debtToEquity": 0.036582775830944034,
       "freeCashFlow": 2.537,
       "fcfGrowth": 0.23515092502434282,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BLK",
@@ -941,7 +941,7 @@
       "debtToEquity": 0.22845691382765532,
       "freeCashFlow": 3.552,
       "fcfGrowth": -0.244416081684748,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BMY",
@@ -955,13 +955,13 @@
       "debtToEquity": 2.4266226384452985,
       "freeCashFlow": 12.845,
       "fcfGrowth": -0.07868311576531341,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BR",
       "companyName": "BROADRIDGE FINANCIAL SOLUTIONS, INC.",
       "sector": "Consumer Discretionary",
-      "score": 62,
+      "score": 63,
       "rating": "Moderate",
       "revenueGrowth": 0.08530867602444439,
       "netMargin": 0.15037181682002998,
@@ -969,7 +969,7 @@
       "debtToEquity": 1.145784192923781,
       "freeCashFlow": 1.2784,
       "fcfGrowth": 0.13383592017738363,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BSX",
@@ -983,7 +983,7 @@
       "debtToEquity": 0.012338546609994635,
       "freeCashFlow": 3.658,
       "fcfGrowth": 0.3829867674858223,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BWA",
@@ -997,7 +997,7 @@
       "debtToEquity": 0.7159132671811833,
       "freeCashFlow": 1.1789999999999998,
       "fcfGrowth": 0.6582278481012659,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BX",
@@ -1011,7 +1011,7 @@
       "debtToEquity": 1.4513356719488235,
       "freeCashFlow": 4.547458,
       "fcfGrowth": 0.3295677249606972,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "BXP",
@@ -1025,7 +1025,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.02847,
       "fcfGrowth": -0.01566181804956581,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "C",
@@ -1039,7 +1039,7 @@
       "debtToEquity": 1.732080022233632,
       "freeCashFlow": -74.152,
       "fcfGrowth": -1.8335817188276207,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CAG",
@@ -1053,7 +1053,7 @@
       "debtToEquity": 1.1378822197055494,
       "freeCashFlow": 0.9786999999999999,
       "fcfGrowth": -0.24865653308767088,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CAH",
@@ -1067,7 +1067,7 @@
       "debtToEquity": null,
       "freeCashFlow": 4.525,
       "fcfGrowth": 1.4459459459459465,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CARR",
@@ -1081,7 +1081,7 @@
       "debtToEquity": 0.8120753114382786,
       "freeCashFlow": 2.121,
       "fcfGrowth": 47.20454545454553,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CASY",
@@ -1095,7 +1095,7 @@
       "debtToEquity": 0.6153256342366449,
       "freeCashFlow": 0.72162,
       "fcfGrowth": 0.23431914202144957,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CAT",
@@ -1109,7 +1109,7 @@
       "debtToEquity": 1.6985645933014353,
       "freeCashFlow": 8.918000000000001,
       "fcfGrowth": -0.11237185229421713,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CB",
@@ -1123,7 +1123,7 @@
       "debtToEquity": 0.2335642718657212,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CBOE",
@@ -1137,13 +1137,13 @@
       "debtToEquity": 0.28081272016036435,
       "freeCashFlow": 1.6816,
       "fcfGrowth": 0.617389631624507,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CBRE",
       "companyName": "CBRE GROUP, INC.",
       "sector": "Financials",
-      "score": 54,
+      "score": 56,
       "rating": "Weak",
       "revenueGrowth": 0.13413490236207049,
       "netMargin": 0.02899749373433584,
@@ -1151,7 +1151,7 @@
       "debtToEquity": 0.5768191034016671,
       "freeCashFlow": 1.193,
       "fcfGrowth": -0.14846538187009276,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CCI",
@@ -1165,7 +1165,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.875,
       "fcfGrowth": 0.03903144199494041,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CCK",
@@ -1179,7 +1179,7 @@
       "debtToEquity": 1.9609869956652217,
       "freeCashFlow": 1.117,
       "fcfGrowth": 0.4157160963244615,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CCL",
@@ -1193,7 +1193,7 @@
       "debtToEquity": 2.1686746987951806,
       "freeCashFlow": 2.6069999999999998,
       "fcfGrowth": 1.0100231303006941,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CDNS",
@@ -1207,7 +1207,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.5869099999999998,
       "fcfGrowth": 0.4194071782964178,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CDW",
@@ -1221,7 +1221,7 @@
       "debtToEquity": 2.16023943824105,
       "freeCashFlow": 1.0881,
       "fcfGrowth": -0.057677318784099756,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CE",
@@ -1235,13 +1235,13 @@
       "debtToEquity": 3.4126944924672755,
       "freeCashFlow": 0.8029999999999999,
       "fcfGrowth": 0.5122410546139361,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CEG",
       "companyName": "Constellation Energy Corp",
       "sector": "Utilities",
-      "score": 56,
+      "score": 57,
       "rating": "Weak",
       "revenueGrowth": 0.1950537861210716,
       "netMargin": 0.1023253761637912,
@@ -1249,7 +1249,7 @@
       "debtToEquity": 0.5057518771095957,
       "freeCashFlow": 1.2880000000000003,
       "fcfGrowth": 1.2561145356929808,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CF",
@@ -1263,7 +1263,7 @@
       "debtToEquity": 0.6645307978503513,
       "freeCashFlow": 1.8019999999999998,
       "fcfGrowth": 0.02795208214489443,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CFG",
@@ -1277,7 +1277,7 @@
       "debtToEquity": 0.4286962799711213,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CHD",
@@ -1291,7 +1291,7 @@
       "debtToEquity": 0.5509719654190195,
       "freeCashFlow": 1.093,
       "fcfGrowth": 0.11941827120032777,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CHRW",
@@ -1305,7 +1305,7 @@
       "debtToEquity": 0.5902743048914554,
       "freeCashFlow": 0.894891,
       "fcfGrowth": 0.839707995584163,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CHTR",
@@ -1319,7 +1319,7 @@
       "debtToEquity": 5.902329637473527,
       "freeCashFlow": 4.418000000000001,
       "fcfGrowth": 0.39765896868079775,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CI",
@@ -1333,7 +1333,7 @@
       "debtToEquity": 0.014192218253302327,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CINF",
@@ -1347,7 +1347,7 @@
       "debtToEquity": 0.049651184714977065,
       "freeCashFlow": 3.092,
       "fcfGrowth": 0.17700799390940228,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CL",
@@ -1361,7 +1361,7 @@
       "debtToEquity": 147.88888888888889,
       "freeCashFlow": 3.6340000000000003,
       "fcfGrowth": 0.02481669486745631,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CLF",
@@ -1375,7 +1375,7 @@
       "debtToEquity": 1.1859058207979072,
       "freeCashFlow": -1.0230000000000001,
       "fcfGrowth": -0.7338983050847461,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CLX",
@@ -1389,7 +1389,7 @@
       "debtToEquity": 7.738317757009345,
       "freeCashFlow": 0.761,
       "fcfGrowth": 0.5755693581780539,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CMCSA",
@@ -1403,7 +1403,7 @@
       "debtToEquity": 0.06148416457694808,
       "freeCashFlow": 21.893,
       "fcfGrowth": 0.413180996643429,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CME",
@@ -1417,7 +1417,7 @@
       "debtToEquity": 0,
       "freeCashFlow": 4.1936,
       "fcfGrowth": 0.16602252189628797,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CMG",
@@ -1431,21 +1431,21 @@
       "debtToEquity": 0,
       "freeCashFlow": 1.4475900000000002,
       "fcfGrowth": -0.04226539276586476,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CMI",
       "companyName": "CUMMINS INC",
       "sector": "Industrials",
-      "score": 59,
-      "rating": "Weak",
+      "score": 62,
+      "rating": "Moderate",
       "revenueGrowth": -0.01266787871679066,
       "netMargin": 0.08782298782298781,
       "roe": 0.23945258725402865,
       "debtToEquity": 0.007611952384808486,
       "freeCashFlow": 2.386,
       "fcfGrowth": 7.551971326164872,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CMS",
@@ -1459,7 +1459,7 @@
       "debtToEquity": 2.051290463692039,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CNC",
@@ -1473,7 +1473,7 @@
       "debtToEquity": 0.8720994336691225,
       "freeCashFlow": 4.321,
       "fcfGrowth": 9.818367346938775,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CNP",
@@ -1487,7 +1487,7 @@
       "debtToEquity": 2.0604321707163993,
       "freeCashFlow": -2.384,
       "fcfGrowth": -0.004212299915753912,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CNX",
@@ -1501,7 +1501,7 @@
       "debtToEquity": 0.5583006841570333,
       "freeCashFlow": 0.5339689999999999,
       "fcfGrowth": 0.9385544224478753,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "COF",
@@ -1515,13 +1515,13 @@
       "debtToEquity": 0.009567314462751724,
       "freeCashFlow": 26.14,
       "fcfGrowth": 0.5417281038041878,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "COIN",
       "companyName": "Coinbase Global, Inc.",
       "sector": "Financials",
-      "score": 69,
+      "score": 68,
       "rating": "Moderate",
       "revenueGrowth": 0.09404240810672955,
       "netMargin": 0.1755006214034318,
@@ -1529,7 +1529,7 @@
       "debtToEquity": 0.48716222163125433,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "COO",
@@ -1543,7 +1543,7 @@
       "debtToEquity": 0.3038633798201216,
       "freeCashFlow": 0.43370000000000003,
       "fcfGrowth": 0.5053800763623741,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "COP",
@@ -1557,7 +1557,7 @@
       "debtToEquity": 0.01581714143935987,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "COR",
@@ -1571,7 +1571,7 @@
       "debtToEquity": 5.080024190676642,
       "freeCashFlow": 3.2071389999999997,
       "fcfGrowth": 0.06993366498616178,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "COST",
@@ -1585,13 +1585,13 @@
       "debtToEquity": 0.1984638595528734,
       "freeCashFlow": 7.837000000000001,
       "fcfGrowth": 0.18222959722431742,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CPAY",
       "companyName": "CORPAY, INC.",
       "sector": "Consumer Discretionary",
-      "score": 60,
+      "score": 62,
       "rating": "Moderate",
       "revenueGrowth": 0.13933868382366077,
       "netMargin": 0.23624796644644921,
@@ -1599,7 +1599,7 @@
       "debtToEquity": 3.4365819709444,
       "freeCashFlow": 1.299145,
       "fcfGrowth": -0.2641026991784814,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CPB",
@@ -1613,7 +1613,7 @@
       "debtToEquity": 0.10251153254741159,
       "freeCashFlow": 0.7050000000000001,
       "fcfGrowth": 0.055389221556886276,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CPT",
@@ -1627,7 +1627,7 @@
       "debtToEquity": 0.8941614749079831,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CRL",
@@ -1641,7 +1641,7 @@
       "debtToEquity": 0.000052454789343461954,
       "freeCashFlow": 0.518494,
       "fcfGrowth": 0.03365961603636293,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CRM",
@@ -1655,7 +1655,7 @@
       "debtToEquity": 0.24414121943796285,
       "freeCashFlow": 14.402000000000001,
       "fcfGrowth": 0.15827569567315425,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CRWD",
@@ -1669,7 +1669,7 @@
       "debtToEquity": 0.1683390577613986,
       "freeCashFlow": 1.310241,
       "fcfGrowth": 0.16272079866888534,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CSCO",
@@ -1683,7 +1683,7 @@
       "debtToEquity": 0.454847369991051,
       "freeCashFlow": 12.767,
       "fcfGrowth": -0.03920830824804341,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CSL",
@@ -1697,7 +1697,7 @@
       "debtToEquity": 1.6076640302996545,
       "freeCashFlow": 0.9705999999999999,
       "fcfGrowth": 0.058451472191930066,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CSX",
@@ -1711,7 +1711,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.7110000000000003,
       "fcfGrowth": -0.3704930095658571,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CTAS",
@@ -1725,7 +1725,7 @@
       "debtToEquity": 0.47239812859699054,
       "freeCashFlow": 1.8811749999999998,
       "fcfGrowth": 0.07066164832406663,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CTSH",
@@ -1739,13 +1739,13 @@
       "debtToEquity": 0.038361638361638355,
       "freeCashFlow": 2.595,
       "fcfGrowth": 0.42036124794745483,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CTVA",
       "companyName": "Corteva, Inc.",
       "sector": "Agriculture",
-      "score": 58,
+      "score": 59,
       "rating": "Weak",
       "revenueGrowth": 0.02915779512656722,
       "netMargin": 0.0628699500028734,
@@ -1753,7 +1753,7 @@
       "debtToEquity": 0.03238899933730948,
       "freeCashFlow": 2.8150000000000004,
       "fcfGrowth": 0.8184754521963826,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CVS",
@@ -1767,7 +1767,7 @@
       "debtToEquity": 0,
       "freeCashFlow": 7.8069999999999995,
       "fcfGrowth": 0.23411318368637385,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "CVX",
@@ -1781,7 +1781,7 @@
       "debtToEquity": 0.012577098417806385,
       "freeCashFlow": 16.592,
       "fcfGrowth": 0.10289816538154735,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "D",
@@ -1795,7 +1795,7 @@
       "debtToEquity": 1.6775779665096449,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DAL",
@@ -1809,7 +1809,7 @@
       "debtToEquity": 0.6381815566105595,
       "freeCashFlow": 3.843000000000001,
       "fcfGrowth": 0.3320623916811092,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DASH",
@@ -1823,7 +1823,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.174,
       "fcfGrowth": 0.07199211045364887,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DD",
@@ -1837,7 +1837,7 @@
       "debtToEquity": 0,
       "freeCashFlow": 0.22700000000000004,
       "fcfGrowth": -0.5270833333333333,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DDOG",
@@ -1851,13 +1851,13 @@
       "debtToEquity": null,
       "freeCashFlow": 1.0005570000000001,
       "fcfGrowth": 0.19700460829493094,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DE",
       "companyName": "DEERE & CO",
       "sector": "Industrials",
-      "score": 46,
+      "score": 45,
       "rating": "Weak",
       "revenueGrowth": -0.1166370175574291,
       "netMargin": 0.1100385255231591,
@@ -1865,7 +1865,7 @@
       "debtToEquity": 0.5316377649325627,
       "freeCashFlow": 6.098999999999999,
       "fcfGrowth": -0.19654854432881055,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DELL",
@@ -1879,7 +1879,7 @@
       "debtToEquity": null,
       "freeCashFlow": 8.552,
       "fcfGrowth": 3.5757089352594975,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DG",
@@ -1893,13 +1893,13 @@
       "debtToEquity": null,
       "freeCashFlow": 2.393338,
       "fcfGrowth": 0.4193880116903572,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DGX",
       "companyName": "QUEST DIAGNOSTICS INC",
       "sector": "Health Care",
-      "score": 62,
+      "score": 61,
       "rating": "Moderate",
       "revenueGrowth": 0.11780794165316048,
       "netMargin": 0.08989578613502491,
@@ -1907,7 +1907,7 @@
       "debtToEquity": 0.7909344490934449,
       "freeCashFlow": 1.359,
       "fcfGrowth": 0.495049504950495,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DHI",
@@ -1921,7 +1921,7 @@
       "debtToEquity": null,
       "freeCashFlow": 3.2835,
       "fcfGrowth": 0.6218819461595458,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DHR",
@@ -1935,7 +1935,7 @@
       "debtToEquity": 0.3505919975634827,
       "freeCashFlow": 5.260000000000001,
       "fcfGrowth": -0.006797583081570752,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DIS",
@@ -1949,27 +1949,27 @@
       "debtToEquity": 0.38251008018640387,
       "freeCashFlow": 10.077,
       "fcfGrowth": 0.17735716789344536,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DLR",
       "companyName": "DIGITAL REALTY TRUST, INC.",
       "sector": "Financials",
-      "score": 59,
-      "rating": "Weak",
+      "score": 60,
+      "rating": "Moderate",
       "revenueGrowth": 0.1004009384032456,
       "netMargin": 0.21407736558622617,
       "roe": 0.05707965784893549,
       "debtToEquity": null,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DLTR",
       "companyName": "DOLLAR TREE, INC.",
       "sector": "Consumer Discretionary",
-      "score": 65,
+      "score": 66,
       "rating": "Moderate",
       "revenueGrowth": 0.10417401997062486,
       "netMargin": 0.0661229035301639,
@@ -1977,13 +1977,13 @@
       "debtToEquity": 0.6476071266877946,
       "freeCashFlow": 1.0567000000000002,
       "fcfGrowth": 0.18357974910394312,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DOCU",
       "companyName": "DOCUSIGN, INC.",
       "sector": "Technology",
-      "score": 68,
+      "score": 67,
       "rating": "Moderate",
       "revenueGrowth": 0.08155266551753454,
       "netMargin": 0.09600403789408293,
@@ -1991,7 +1991,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.058562,
       "fcfGrowth": 0.15025579060377015,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DOV",
@@ -2005,7 +2005,7 @@
       "debtToEquity": 0.44940978009254573,
       "freeCashFlow": 1.1177420000000002,
       "fcfGrowth": 0.21454091057263946,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DOW",
@@ -2019,13 +2019,13 @@
       "debtToEquity": null,
       "freeCashFlow": -1.447,
       "fcfGrowth": -54.65384615384658,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DPZ",
       "companyName": "DOMINOS PIZZA INC",
       "sector": "Consumer Discretionary",
-      "score": 66,
+      "score": 68,
       "rating": "Moderate",
       "revenueGrowth": 0.04962969699236117,
       "netMargin": 0.1218025770881503,
@@ -2033,7 +2033,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.6715040000000001,
       "fcfGrowth": 0.311500511706757,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DRI",
@@ -2047,7 +2047,7 @@
       "debtToEquity": 1.0560815402038506,
       "freeCashFlow": 1.1191,
       "fcfGrowth": 0.053369728915662405,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DTE",
@@ -2061,7 +2061,7 @@
       "debtToEquity": 1.167167167167167,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DUK",
@@ -2075,7 +2075,7 @@
       "debtToEquity": 1.6822653447012077,
       "freeCashFlow": -1.693999999999999,
       "fcfGrowth": -36.291666666666615,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DVA",
@@ -2089,7 +2089,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.3106360000000001,
       "fcfGrowth": -0.10634087802017582,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DVN",
@@ -2103,7 +2103,7 @@
       "debtToEquity": 0.5402498712004121,
       "freeCashFlow": 3.119,
       "fcfGrowth": 0.05549915397631154,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DXC",
@@ -2117,13 +2117,13 @@
       "debtToEquity": null,
       "freeCashFlow": 1.036,
       "fcfGrowth": -0.09913043478260859,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "DXCM",
       "companyName": "DEXCOM INC",
       "sector": "Health Care",
-      "score": 82,
+      "score": 81,
       "rating": "Strong",
       "revenueGrowth": 0.15596330275229345,
       "netMargin": 0.1793865293865294,
@@ -2131,7 +2131,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.0772000000000002,
       "fcfGrowth": 0.7079435547804028,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EBAY",
@@ -2145,7 +2145,7 @@
       "debtToEquity": 0.16251354279523292,
       "freeCashFlow": 1.4340000000000002,
       "fcfGrowth": -0.26687116564417174,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ECL",
@@ -2159,7 +2159,7 @@
       "debtToEquity": 0.08908175379702787,
       "freeCashFlow": 1.9042999999999999,
       "fcfGrowth": 0.04666373529735077,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ED",
@@ -2173,7 +2173,7 @@
       "debtToEquity": 1.066597767672592,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EFX",
@@ -2187,7 +2187,7 @@
       "debtToEquity": 1.1062050691744674,
       "freeCashFlow": 1.1342999999999999,
       "fcfGrowth": 0.39520295202952005,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EL",
@@ -2201,7 +2201,7 @@
       "debtToEquity": 0.13215974776668418,
       "freeCashFlow": 1.3159999999999998,
       "fcfGrowth": 0.9641791044776116,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ELV",
@@ -2215,7 +2215,7 @@
       "debtToEquity": 0.7268583929629462,
       "freeCashFlow": 3.174,
       "fcfGrowth": -0.3027240773286467,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EMN",
@@ -2229,7 +2229,7 @@
       "debtToEquity": 0.8030531789968126,
       "freeCashFlow": 0.42399999999999993,
       "fcfGrowth": -0.3837209302325582,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EMR",
@@ -2243,7 +2243,7 @@
       "debtToEquity": 0.43999605561581695,
       "freeCashFlow": 2.667,
       "fcfGrowth": -0.08444902162718847,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ENPH",
@@ -2257,7 +2257,7 @@
       "debtToEquity": 1.107959077222837,
       "freeCashFlow": 0.09590099999999999,
       "fcfGrowth": -0.8002432882236419,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ENTG",
@@ -2271,7 +2271,7 @@
       "debtToEquity": 0.9352962007386048,
       "freeCashFlow": 0.3962,
       "fcfGrowth": 0.25340082252451734,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EOG",
@@ -2285,7 +2285,7 @@
       "debtToEquity": 0.2660141454094459,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EPAM",
@@ -2299,7 +2299,7 @@
       "debtToEquity": 0.006807849177613777,
       "freeCashFlow": 0.612691,
       "fcfGrowth": 0.16255298640284466,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EQIX",
@@ -2313,7 +2313,7 @@
       "debtToEquity": 0.09176320994631251,
       "freeCashFlow": -0.3999999999999999,
       "fcfGrowth": -3.185792349726772,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EQT",
@@ -2327,13 +2327,13 @@
       "debtToEquity": 0.32839784753524837,
       "freeCashFlow": 2.8375269999999997,
       "fcfGrowth": 3.949773577269809,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ES",
       "companyName": "EVERSOURCE ENERGY",
       "sector": "Utilities",
-      "score": 63,
+      "score": 64,
       "rating": "Moderate",
       "revenueGrowth": 0.13834647711764791,
       "netMargin": 0.1254787320579743,
@@ -2341,7 +2341,7 @@
       "debtToEquity": 1.745070573925694,
       "freeCashFlow": -0.045097000000000165,
       "fcfGrowth": 0.9805682715211014,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ESS",
@@ -2355,7 +2355,7 @@
       "debtToEquity": null,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ETN",
@@ -2369,7 +2369,7 @@
       "debtToEquity": 0.5093951093951093,
       "freeCashFlow": 3.5530000000000004,
       "fcfGrowth": 0.009661835748792341,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ETR",
@@ -2383,7 +2383,7 @@
       "debtToEquity": 1.7891050657693675,
       "freeCashFlow": -2.5342710000000004,
       "fcfGrowth": -6.244313650383462,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ETSY",
@@ -2397,7 +2397,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.678028,
       "fcfGrowth": -0.0815876769868652,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EVRG",
@@ -2411,7 +2411,7 @@
       "debtToEquity": 1.3115944155831452,
       "freeCashFlow": -0.7517,
       "fcfGrowth": -1.130065174270333,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EW",
@@ -2425,7 +2425,7 @@
       "debtToEquity": 0.05787610277046897,
       "freeCashFlow": 1.335,
       "fcfGrowth": 3.605036219385995,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EXC",
@@ -2439,7 +2439,7 @@
       "debtToEquity": 1.7741857073407878,
       "freeCashFlow": -2.2750000000000004,
       "fcfGrowth": -0.488874345549738,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EXP",
@@ -2453,7 +2453,7 @@
       "debtToEquity": 1.1934144184949025,
       "freeCashFlow": 0.19742699999999996,
       "fcfGrowth": -0.44113942145742463,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EXPD",
@@ -2467,7 +2467,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.9534000000000001,
       "fcfGrowth": 0.39611506893446297,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EXPE",
@@ -2481,7 +2481,7 @@
       "debtToEquity": 4.79828660436137,
       "freeCashFlow": 3.11,
       "fcfGrowth": 0.33533705452984125,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "EXR",
@@ -2495,7 +2495,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.28847,
       "fcfGrowth": -0.08513452776292599,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "F",
@@ -2509,7 +2509,7 @@
       "debtToEquity": null,
       "freeCashFlow": 12.467,
       "fcfGrowth": 0.8499777415046742,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FANG",
@@ -2523,7 +2523,7 @@
       "debtToEquity": 0.3918911608785027,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FAST",
@@ -2537,7 +2537,7 @@
       "debtToEquity": 0.031696926665990464,
       "freeCashFlow": 1.0506,
       "fcfGrowth": 0.10963244613434728,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FCX",
@@ -2551,7 +2551,7 @@
       "debtToEquity": 0.4962696438965024,
       "freeCashFlow": 1.1160000000000005,
       "fcfGrowth": -0.5255102040816325,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FDS",
@@ -2565,7 +2565,7 @@
       "debtToEquity": 0.6258012552980613,
       "freeCashFlow": 0.6174540000000001,
       "fcfGrowth": 0.00455050540382693,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FDX",
@@ -2579,7 +2579,7 @@
       "debtToEquity": 0.7595664675956647,
       "freeCashFlow": 5.1160000000000005,
       "fcfGrowth": 0.7162026165716205,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FE",
@@ -2593,13 +2593,13 @@
       "debtToEquity": 0.05779376498800959,
       "freeCashFlow": -1.005,
       "fcfGrowth": 0.11764705882352969,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FFIV",
       "companyName": "F5, INC.",
       "sector": "Technology",
-      "score": 56,
+      "score": 54,
       "rating": "Weak",
       "revenueGrowth": 0.09656974844821944,
       "netMargin": 0.22421109352372615,
@@ -2607,13 +2607,13 @@
       "debtToEquity": null,
       "freeCashFlow": 0.906406,
       "fcfGrowth": 0.18949825920234337,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FIS",
       "companyName": "Fidelity National Information Services, Inc.",
       "sector": "Consumer Discretionary",
-      "score": 55,
+      "score": 56,
       "rating": "Weak",
       "revenueGrowth": 0.05431025970178719,
       "netMargin": 0.035777840217289504,
@@ -2621,7 +2621,7 @@
       "debtToEquity": 0.74487373192316,
       "freeCashFlow": 2.454,
       "fcfGrowth": 0.18094321462945157,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FITB",
@@ -2635,7 +2635,7 @@
       "debtToEquity": 0.8543709576465678,
       "freeCashFlow": 4.018000000000001,
       "fcfGrowth": -0.33914473684210517,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FLR",
@@ -2649,7 +2649,7 @@
       "debtToEquity": 0.32983970406905055,
       "freeCashFlow": -0.437,
       "fcfGrowth": -1.6581325301204821,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FMC",
@@ -2663,7 +2663,7 @@
       "debtToEquity": 1.6197924209510017,
       "freeCashFlow": -0.1025,
       "fcfGrowth": -1.1532595693779906,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FOXA",
@@ -2677,13 +2677,13 @@
       "debtToEquity": 0.5681114551083591,
       "freeCashFlow": 1.468,
       "fcfGrowth": -0.5095222185098564,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FRT",
       "companyName": "FEDERAL REALTY INVESTMENT TRUST",
       "sector": "Financials",
-      "score": 64,
+      "score": 66,
       "rating": "Moderate",
       "revenueGrowth": 0.06363913070958332,
       "netMargin": 0.3214112863816729,
@@ -2691,7 +2691,7 @@
       "debtToEquity": 1.5278587239140453,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FSLR",
@@ -2705,7 +2705,7 @@
       "debtToEquity": 0.0522722128229702,
       "freeCashFlow": 1.18723,
       "fcfGrowth": 4.853679437283537,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FTNT",
@@ -2719,7 +2719,7 @@
       "debtToEquity": 0.8050909090909091,
       "freeCashFlow": 2.2257999999999996,
       "fcfGrowth": 0.18444018731375017,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "FTV",
@@ -2733,7 +2733,7 @@
       "debtToEquity": 0.49679238850838314,
       "freeCashFlow": 0.9781,
       "fcfGrowth": -0.3210939126813354,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GD",
@@ -2747,7 +2747,7 @@
       "debtToEquity": 0.3127390523768636,
       "freeCashFlow": 3.959,
       "fcfGrowth": 0.2387359198998748,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GDDY",
@@ -2761,7 +2761,7 @@
       "debtToEquity": 17.574616457461644,
       "freeCashFlow": 1.5755,
       "fcfGrowth": 0.24930616128776445,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GE",
@@ -2775,7 +2775,7 @@
       "debtToEquity": 1.186218343417037,
       "freeCashFlow": 7.264000000000001,
       "fcfGrowth": 0.9749864056552477,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GEHC",
@@ -2789,7 +2789,7 @@
       "debtToEquity": 0.9631949128047018,
       "freeCashFlow": 1.5050000000000001,
       "fcfGrowth": -0.03153153153153149,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GEN",
@@ -2803,7 +2803,7 @@
       "debtToEquity": 3.139027192646495,
       "freeCashFlow": 1.523,
       "fcfGrowth": 0.26285240464344917,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GILD",
@@ -2817,7 +2817,7 @@
       "debtToEquity": 1.0983570453244065,
       "freeCashFlow": 9.456,
       "fcfGrowth": -0.08238719068413394,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GIS",
@@ -2831,7 +2831,7 @@
       "debtToEquity": 1.8280223657781878,
       "freeCashFlow": 1.6262999999999999,
       "fcfGrowth": -0.29072353787779687,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GLW",
@@ -2845,7 +2845,7 @@
       "debtToEquity": 0.06809519776403829,
       "freeCashFlow": 1.4129999999999998,
       "fcfGrowth": 0.45071868583162183,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GM",
@@ -2859,13 +2859,13 @@
       "debtToEquity": null,
       "freeCashFlow": 17.564,
       "fcfGrowth": 0.8888052478761155,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GNRC",
       "companyName": "GENERAC HOLDINGS INC.",
       "sector": "Industrials",
-      "score": 33,
+      "score": 32,
       "rating": "High Risk",
       "revenueGrowth": -0.02017931791591584,
       "netMargin": 0.03790649269317513,
@@ -2873,7 +2873,7 @@
       "debtToEquity": 0.4583151941444039,
       "freeCashFlow": 0.268128,
       "fcfGrowth": -0.5564965396779188,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GNTX",
@@ -2887,7 +2887,7 @@
       "debtToEquity": 0.0015257977519043421,
       "freeCashFlow": 0.45803751300000006,
       "fcfGrowth": 0.29555933792700306,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GOLD",
@@ -2901,13 +2901,13 @@
       "debtToEquity": null,
       "freeCashFlow": 1.2100760000000002,
       "fcfGrowth": 7.541572256456952,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GOOGL",
       "companyName": "Alphabet Inc.",
       "sector": "Technology",
-      "score": 76,
+      "score": 75,
       "rating": "Strong",
       "revenueGrowth": 0.1509008108154439,
       "netMargin": 0.3280987796522654,
@@ -2915,7 +2915,7 @@
       "debtToEquity": 0.11689643962289141,
       "freeCashFlow": 73.26599999999999,
       "fcfGrowth": 0.006899015996921294,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GPC",
@@ -2929,7 +2929,7 @@
       "debtToEquity": 0.8709515800506943,
       "freeCashFlow": 0.4209240000000001,
       "fcfGrowth": -0.3845348524371554,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GPK",
@@ -2943,7 +2943,7 @@
       "debtToEquity": 1.6627697841726619,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GPN",
@@ -2957,13 +2957,13 @@
       "debtToEquity": 0.9415623392907096,
       "freeCashFlow": 2.038823,
       "fcfGrowth": -0.14431019706496861,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GRMN",
       "companyName": "GARMIN LTD",
       "sector": "Health Care",
-      "score": 55,
+      "score": 57,
       "rating": "Weak",
       "revenueGrowth": 0.15064802491002313,
       "netMargin": 0.2296435907489857,
@@ -2971,7 +2971,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.362913,
       "fcfGrowth": 0.10009928162079257,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GS",
@@ -2985,7 +2985,7 @@
       "debtToEquity": null,
       "freeCashFlow": -47.218,
       "fcfGrowth": -2.0855387832451155,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GTX",
@@ -2999,13 +2999,13 @@
       "debtToEquity": null,
       "freeCashFlow": 0.34099999999999997,
       "fcfGrowth": 0.07570977917981081,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "GWW",
       "companyName": "W.W. GRAINGER, INC.",
       "sector": "Consumer Discretionary",
-      "score": 47,
+      "score": 49,
       "rating": "Weak",
       "revenueGrowth": 0.04508387698042876,
       "netMargin": 0.09508416007134099,
@@ -3013,13 +3013,13 @@
       "debtToEquity": 0.6659528907922911,
       "freeCashFlow": 1.331,
       "fcfGrowth": -0.1522292993630575,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HAL",
       "companyName": "HALLIBURTON CO",
       "sector": "Energy & Mining",
-      "score": 46,
+      "score": 47,
       "rating": "Weak",
       "revenueGrowth": -0.033124128312412744,
       "netMargin": 0.05783447529751171,
@@ -3027,7 +3027,7 @@
       "debtToEquity": 0.6842558072841984,
       "freeCashFlow": 1.6720000000000002,
       "fcfGrowth": -0.3099463475030953,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HAS",
@@ -3041,13 +3041,13 @@
       "debtToEquity": 5.773474801061008,
       "freeCashFlow": 0.8299,
       "fcfGrowth": 0.09168639831623256,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HBAN",
       "companyName": "HUNTINGTON BANCSHARES INC /MD/",
       "sector": "Financials",
-      "score": 68,
+      "score": 70,
       "rating": "Moderate",
       "revenueGrowth": 0.06403269754768398,
       "netMargin": 1.4154929577464788,
@@ -3055,7 +3055,7 @@
       "debtToEquity": 0.7592638238435626,
       "freeCashFlow": 2.2150000000000003,
       "fcfGrowth": 0.3083284111045483,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HCA",
@@ -3069,7 +3069,7 @@
       "debtToEquity": null,
       "freeCashFlow": 7.691999999999999,
       "fcfGrowth": 0.36407164390849445,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HD",
@@ -3083,7 +3083,7 @@
       "debtToEquity": 3.8552251619448996,
       "freeCashFlow": 12.645999999999999,
       "fcfGrowth": -0.22535987748851458,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HIG",
@@ -3097,7 +3097,7 @@
       "debtToEquity": 0.23030718162179253,
       "freeCashFlow": 5.753,
       "fcfGrowth": -0.0019083969465649065,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HLT",
@@ -3111,7 +3111,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.028,
       "fcfGrowth": 0.057902973395931256,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HOG",
@@ -3125,7 +3125,7 @@
       "debtToEquity": 0.7862152255507427,
       "freeCashFlow": 0.41524300000000003,
       "fcfGrowth": -0.5212067752833603,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HON",
@@ -3139,7 +3139,7 @@
       "debtToEquity": 2.512873993095512,
       "freeCashFlow": 5.422000000000001,
       "fcfGrowth": 0.03750478377344043,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HOOD",
@@ -3153,7 +3153,7 @@
       "debtToEquity": null,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HPE",
@@ -3167,7 +3167,7 @@
       "debtToEquity": 1.0346727154893065,
       "freeCashFlow": 0.6270000000000002,
       "fcfGrowth": -0.6823708206686929,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HPQ",
@@ -3181,7 +3181,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.8,
       "fcfGrowth": -0.11308203991130827,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HRL",
@@ -3195,13 +3195,13 @@
       "debtToEquity": 0.36164563455214427,
       "freeCashFlow": 0.534349,
       "fcfGrowth": -0.4710971130271594,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HSIC",
       "companyName": "HENRY SCHEIN INC",
       "sector": "Consumer Discretionary",
-      "score": 51,
+      "score": 52,
       "rating": "Weak",
       "revenueGrowth": 0.04032194429101233,
       "netMargin": 0.03018810679611651,
@@ -3209,7 +3209,7 @@
       "debtToEquity": 0.23543913713405237,
       "freeCashFlow": 0.573,
       "fcfGrowth": -0.18142857142857144,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HST",
@@ -3223,7 +3223,7 @@
       "debtToEquity": 0.19426654467825558,
       "freeCashFlow": 1.228,
       "fcfGrowth": -0.008077544426494353,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HSY",
@@ -3237,7 +3237,7 @@
       "debtToEquity": 0.047133444761956106,
       "freeCashFlow": 1.8227449999999998,
       "fcfGrowth": -0.05344106469801955,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "HUM",
@@ -3251,7 +3251,7 @@
       "debtToEquity": 0.7005153763379962,
       "freeCashFlow": 0.375,
       "fcfGrowth": -0.8431618569636136,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IBM",
@@ -3265,7 +3265,7 @@
       "debtToEquity": 1.8763783386424893,
       "freeCashFlow": 12.102,
       "fcfGrowth": -0.02379607969670081,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ICE",
@@ -3279,7 +3279,7 @@
       "debtToEquity": 0.6793705689088708,
       "freeCashFlow": 4.289,
       "fcfGrowth": 0.020461575065429314,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IDA",
@@ -3293,7 +3293,7 @@
       "debtToEquity": 0.9651342684540383,
       "freeCashFlow": -0.577489,
       "fcfGrowth": -0.39200264184234745,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IDXX",
@@ -3307,7 +3307,7 @@
       "debtToEquity": 0.2802054089273401,
       "freeCashFlow": 1.057129,
       "fcfGrowth": 0.30820006459764454,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IEX",
@@ -3321,7 +3321,7 @@
       "debtToEquity": 0.4520918684047176,
       "freeCashFlow": 0.6168,
       "fcfGrowth": 0.02288557213930354,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IFF",
@@ -3335,7 +3335,7 @@
       "debtToEquity": 0.4234845273420941,
       "freeCashFlow": 0.256,
       "fcfGrowth": -0.5782537067545305,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ILMN",
@@ -3349,7 +3349,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.9309999999999999,
       "fcfGrowth": 0.31311706629055003,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "INCY",
@@ -3363,7 +3363,7 @@
       "debtToEquity": null,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "INTC",
@@ -3377,13 +3377,13 @@
       "debtToEquity": 0.4076355649670549,
       "freeCashFlow": -4.949000000000002,
       "fcfGrowth": 0.6838911599386815,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "INTU",
       "companyName": "INTUIT INC.",
       "sector": "Technology",
-      "score": 81,
+      "score": 82,
       "rating": "Strong",
       "revenueGrowth": 0.13897297010249063,
       "netMargin": 0.21288698246922788,
@@ -3391,7 +3391,7 @@
       "debtToEquity": 0.4038016006739679,
       "freeCashFlow": 8.662999999999998,
       "fcfGrowth": 0.41482933202678396,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IP",
@@ -3405,7 +3405,7 @@
       "debtToEquity": 0.6630471437242867,
       "freeCashFlow": -0.15900000000000003,
       "fcfGrowth": -1.2100396301188905,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IQV",
@@ -3419,7 +3419,7 @@
       "debtToEquity": 2.4179609411041056,
       "freeCashFlow": 2.051,
       "fcfGrowth": -0.029801324503311334,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IR",
@@ -3433,7 +3433,7 @@
       "debtToEquity": 0.00013875398917718884,
       "freeCashFlow": 1.2201,
       "fcfGrowth": -0.022042321256813144,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ISRG",
@@ -3447,13 +3447,13 @@
       "debtToEquity": null,
       "freeCashFlow": 2.4907,
       "fcfGrowth": 0.9103390090504677,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ITW",
       "companyName": "ILLINOIS TOOL WORKS INC",
       "sector": "Technology",
-      "score": 46,
+      "score": 43,
       "rating": "Weak",
       "revenueGrowth": 0.00918354510001263,
       "netMargin": 0.19109947643979056,
@@ -3461,7 +3461,7 @@
       "debtToEquity": 2.381277123372598,
       "freeCashFlow": 2.707,
       "fcfGrowth": -0.048171589310829974,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "IVZ",
@@ -3475,7 +3475,7 @@
       "debtToEquity": 0.14921919712206688,
       "freeCashFlow": 1.441,
       "fcfGrowth": 0.2855740922473013,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "J",
@@ -3489,13 +3489,13 @@
       "debtToEquity": 0.6142748022622457,
       "freeCashFlow": 0.607472,
       "fcfGrowth": -0.34929447415749837,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "JBHT",
       "companyName": "HUNT J B TRANSPORT SERVICES INC",
       "sector": "Industrials",
-      "score": 43,
+      "score": 45,
       "rating": "Weak",
       "revenueGrowth": -0.007289361543000356,
       "netMargin": 0.049860589497742164,
@@ -3503,13 +3503,13 @@
       "debtToEquity": 0.4114339489801786,
       "freeCashFlow": 0.947585,
       "fcfGrowth": 0.5338476455324929,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "JBL",
       "companyName": "JABIL INC",
       "sector": "Technology",
-      "score": 41,
+      "score": 42,
       "rating": "Weak",
       "revenueGrowth": 0.03181802444344426,
       "netMargin": 0.022045500301993155,
@@ -3517,7 +3517,7 @@
       "debtToEquity": 1.9068076668869796,
       "freeCashFlow": 1.172,
       "fcfGrowth": 0.2575107296137339,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "JBLU",
@@ -3531,7 +3531,7 @@
       "debtToEquity": null,
       "freeCashFlow": -1.1720000000000002,
       "fcfGrowth": 0.12143928035982002,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "JCI",
@@ -3545,7 +3545,7 @@
       "debtToEquity": 0.7672313761893711,
       "freeCashFlow": 2.1199999999999997,
       "fcfGrowth": 0.9739292364990685,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "JKHY",
@@ -3559,7 +3559,7 @@
       "debtToEquity": 0.01949366187951065,
       "freeCashFlow": 0.694857,
       "fcfGrowth": 0.18143624202153888,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "JNJ",
@@ -3573,7 +3573,7 @@
       "debtToEquity": 0.5081673697635632,
       "freeCashFlow": 19.698,
       "fcfGrowth": -0.007257332930148088,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "JPM",
@@ -3587,7 +3587,7 @@
       "debtToEquity": 0.17872298158581607,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KDP",
@@ -3601,7 +3601,7 @@
       "debtToEquity": 0.5459711553535037,
       "freeCashFlow": 1.5050000000000001,
       "fcfGrowth": -0.09118357487922693,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KEY",
@@ -3615,7 +3615,7 @@
       "debtToEquity": 0.4865806388302831,
       "freeCashFlow": 2.101,
       "fcfGrowth": 2.5075125208681137,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KEYS",
@@ -3629,7 +3629,7 @@
       "debtToEquity": 0.43087910219350445,
       "freeCashFlow": 1.2810000000000001,
       "fcfGrowth": 0.42650334075723845,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KHC",
@@ -3643,7 +3643,7 @@
       "debtToEquity": null,
       "freeCashFlow": 3.6609999999999996,
       "fcfGrowth": 0.15854430379746817,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KIM",
@@ -3657,7 +3657,7 @@
       "debtToEquity": 0.7427657634319864,
       "freeCashFlow": 1.101615,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KKR",
@@ -3671,7 +3671,7 @@
       "debtToEquity": null,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KLAC",
@@ -3685,7 +3685,7 @@
       "debtToEquity": 0.9271782507220676,
       "freeCashFlow": 3.7671340000000004,
       "fcfGrowth": 0.00546889429580194,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KMB",
@@ -3699,7 +3699,7 @@
       "debtToEquity": 0.4620505992010652,
       "freeCashFlow": 1.6390000000000002,
       "fcfGrowth": -0.34779148428173484,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KMI",
@@ -3713,7 +3713,7 @@
       "debtToEquity": 1.0269879982029395,
       "freeCashFlow": 2.891,
       "fcfGrowth": -0.03825681969394537,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KO",
@@ -3727,13 +3727,13 @@
       "debtToEquity": null,
       "freeCashFlow": 5.296,
       "fcfGrowth": 0.11706391056739099,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "KR",
       "companyName": "KROGER CO",
       "sector": "Consumer Discretionary",
-      "score": 36,
+      "score": 39,
       "rating": "High Risk",
       "revenueGrowth": 0.0035276605289452055,
       "netMargin": 0.006881510681242465,
@@ -3741,7 +3741,7 @@
       "debtToEquity": 2.6784207862324956,
       "freeCashFlow": 3.456,
       "fcfGrowth": 0.944850872256613,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LCID",
@@ -3755,7 +3755,7 @@
       "debtToEquity": 3.78972712456799,
       "freeCashFlow": -3.80007,
       "fcfGrowth": -0.30878263070795214,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LDOS",
@@ -3769,7 +3769,7 @@
       "debtToEquity": 0.0040683482506102524,
       "freeCashFlow": 1.625,
       "fcfGrowth": 0.26360808709175737,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LEN",
@@ -3783,13 +3783,13 @@
       "debtToEquity": 0.26753875114261916,
       "freeCashFlow": 0.028183000000000014,
       "fcfGrowth": -0.9873725063578802,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LH",
       "companyName": "LABCORP HOLDINGS INC.",
       "sector": "Health Care",
-      "score": 54,
+      "score": 52,
       "rating": "Weak",
       "revenueGrowth": 0.07247346047705802,
       "netMargin": 0.06282388526129432,
@@ -3797,7 +3797,7 @@
       "debtToEquity": 0.647892062460846,
       "freeCashFlow": 1.206,
       "fcfGrowth": 0.10046537092800424,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LHX",
@@ -3811,7 +3811,7 @@
       "debtToEquity": 0.5942400327969664,
       "freeCashFlow": 2.1510000000000002,
       "fcfGrowth": 0.30601092896174875,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LIN",
@@ -3825,7 +3825,7 @@
       "debtToEquity": 0.5877631062884038,
       "freeCashFlow": 5.0889999999999995,
       "fcfGrowth": 0.0330897279740153,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LKQ",
@@ -3839,7 +3839,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.847,
       "fcfGrowth": 0.045679012345678914,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LLY",
@@ -3853,7 +3853,7 @@
       "debtToEquity": 1.6017712455247786,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LMT",
@@ -3867,7 +3867,7 @@
       "debtToEquity": 3.2286862074096114,
       "freeCashFlow": 6.908,
       "fcfGrowth": 0.3066010970304519,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LNC",
@@ -3881,7 +3881,7 @@
       "debtToEquity": 0.6108564093159728,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LNG",
@@ -3895,7 +3895,7 @@
       "debtToEquity": 2.882248894504106,
       "freeCashFlow": 2.461,
       "fcfGrowth": -0.22021546261089994,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LNT",
@@ -3909,7 +3909,7 @@
       "debtToEquity": 1.6400327242977912,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LOGI",
@@ -3923,7 +3923,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.975645,
       "fcfGrowth": 0.2406015037593984,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LOW",
@@ -3937,7 +3937,7 @@
       "debtToEquity": null,
       "freeCashFlow": 7.651000000000001,
       "fcfGrowth": -0.006105481943361874,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LPLA",
@@ -3951,13 +3951,13 @@
       "debtToEquity": 1.3581652862717364,
       "freeCashFlow": -0.98178,
       "fcfGrowth": -2.445543303549494,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LRCX",
       "companyName": "LAM RESEARCH CORP",
       "sector": "Industrials",
-      "score": 70,
+      "score": 71,
       "rating": "Moderate",
       "revenueGrowth": 0.2602085824099701,
       "netMargin": 0.3127229778385542,
@@ -3965,7 +3965,7 @@
       "debtToEquity": 0.29845919158657164,
       "freeCashFlow": 4.891252,
       "fcfGrowth": -0.09656787360654949,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LULU",
@@ -3979,7 +3979,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.9216749999999999,
       "fcfGrowth": -0.41794375808740364,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LUV",
@@ -3993,7 +3993,7 @@
       "debtToEquity": 0.6175917804786368,
       "freeCashFlow": -0.831,
       "fcfGrowth": 0.4780150753768844,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LYB",
@@ -4007,7 +4007,7 @@
       "debtToEquity": 0.022416187264431658,
       "freeCashFlow": 0.3840000000000001,
       "fcfGrowth": -0.806060606060606,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LYFT",
@@ -4021,7 +4021,7 @@
       "debtToEquity": 0.32167514937270947,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "LYV",
@@ -4035,7 +4035,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.3336110000000001,
       "fcfGrowth": -0.6906830616545869,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MA",
@@ -4049,7 +4049,7 @@
       "debtToEquity": 2.455732195941579,
       "freeCashFlow": 17.159,
       "fcfGrowth": 0.1994268139242276,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MAA",
@@ -4063,7 +4063,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.717937,
       "fcfGrowth": -0.0747280647489432,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MAR",
@@ -4077,7 +4077,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.608,
       "fcfGrowth": 0.3046523261630815,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MAS",
@@ -4091,7 +4091,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.866,
       "fcfGrowth": -0.045203969128996616,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MAT",
@@ -4105,7 +4105,7 @@
       "debtToEquity": 1.0441669861104643,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MCD",
@@ -4119,7 +4119,7 @@
       "debtToEquity": null,
       "freeCashFlow": 7.186,
       "fcfGrowth": 0.07703836930455654,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MCHP",
@@ -4133,7 +4133,7 @@
       "debtToEquity": 0.8544866612772838,
       "freeCashFlow": 0.871,
       "fcfGrowth": 0.12809221603419244,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MCK",
@@ -4147,7 +4147,7 @@
       "debtToEquity": null,
       "freeCashFlow": 5.719,
       "fcfGrowth": 0.030821917808219225,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MCO",
@@ -4161,7 +4161,7 @@
       "debtToEquity": 1.7252096694622594,
       "freeCashFlow": 2.5749999999999997,
       "fcfGrowth": 0.021420071400237932,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MDLZ",
@@ -4175,7 +4175,7 @@
       "debtToEquity": 0.10403281987769951,
       "freeCashFlow": 3.2350000000000003,
       "fcfGrowth": -0.08174850979279018,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MDT",
@@ -4189,7 +4189,7 @@
       "debtToEquity": 0.03614823201180681,
       "freeCashFlow": 5.426,
       "fcfGrowth": 0.04648023143683714,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MDU",
@@ -4203,7 +4203,7 @@
       "debtToEquity": 0.9653570590104212,
       "freeCashFlow": -0.29702900000000004,
       "fcfGrowth": -13.484980005852009,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MET",
@@ -4217,7 +4217,7 @@
       "debtToEquity": 0.012500880343686174,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "META",
@@ -4231,7 +4231,7 @@
       "debtToEquity": 0.27040687156778354,
       "freeCashFlow": 46.108999999999995,
       "fcfGrowth": -0.14726660748631468,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MHK",
@@ -4245,7 +4245,7 @@
       "debtToEquity": 0.24249698446251775,
       "freeCashFlow": 0.6162000000000001,
       "fcfGrowth": -0.09315673289183195,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MKTX",
@@ -4259,21 +4259,21 @@
       "debtToEquity": 0.19202787546468564,
       "freeCashFlow": 0.373935,
       "fcfGrowth": -0.0036238159314671723,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MLM",
       "companyName": "MARTIN MARIETTA MATERIALS INC",
       "sector": "Energy & Mining",
-      "score": 59,
-      "rating": "Weak",
+      "score": 60,
+      "rating": "Moderate",
       "revenueGrowth": 0.08618862592723427,
       "netMargin": 0.1848780487804878,
       "roe": 0.11333732057416268,
       "debtToEquity": 0.5306020733652314,
       "freeCashFlow": 0.9779999999999999,
       "fcfGrowth": 0.6192052980132445,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MMM",
@@ -4287,7 +4287,7 @@
       "debtToEquity": 2.6801361122926415,
       "freeCashFlow": 1.396,
       "fcfGrowth": 1.188087774294671,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MNST",
@@ -4301,7 +4301,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.9659020000000003,
       "fcfGrowth": 0.1811056926004186,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MO",
@@ -4315,7 +4315,7 @@
       "debtToEquity": null,
       "freeCashFlow": 9.074,
       "fcfGrowth": 0.05376843572175115,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MOH",
@@ -4329,13 +4329,13 @@
       "debtToEquity": 0.9255345293683952,
       "freeCashFlow": -0.636,
       "fcfGrowth": -2.169117647058824,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MORN",
       "companyName": "Morningstar, Inc.",
       "sector": "Financials",
-      "score": 65,
+      "score": 64,
       "rating": "Moderate",
       "revenueGrowth": 0.07489780668981577,
       "netMargin": 0.15301574320179923,
@@ -4343,7 +4343,7 @@
       "debtToEquity": 0.8778132416728046,
       "freeCashFlow": 0.4426,
       "fcfGrowth": -0.014034306081532697,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MOS",
@@ -4357,13 +4357,13 @@
       "debtToEquity": 0.06288012312886329,
       "freeCashFlow": -0.5346,
       "fcfGrowth": -12.278481012658254,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MPC",
       "companyName": "Marathon Petroleum Corp",
       "sector": "Energy & Mining",
-      "score": 50,
+      "score": 49,
       "rating": "Weak",
       "revenueGrowth": -0.044395955755271284,
       "netMargin": 0.0304975922953451,
@@ -4371,7 +4371,7 @@
       "debtToEquity": 0.13694120365022525,
       "freeCashFlow": 4.7669999999999995,
       "fcfGrowth": -0.22260273972602745,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MPWR",
@@ -4385,7 +4385,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.666189,
       "fcfGrowth": 0.037205819160132686,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MRK",
@@ -4399,7 +4399,7 @@
       "debtToEquity": 0.9324031479298939,
       "freeCashFlow": 12.360000000000001,
       "fcfGrowth": -0.31697612732095487,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MRNA",
@@ -4413,7 +4413,7 @@
       "debtToEquity": 0.06820809248554913,
       "freeCashFlow": -2.065,
       "fcfGrowth": 0.49075215782983966,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MS",
@@ -4427,13 +4427,13 @@
       "debtToEquity": 2.406412959059137,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MSA",
       "companyName": "MSA Safety Inc",
       "sector": "Health Care",
-      "score": 62,
+      "score": 64,
       "rating": "Moderate",
       "revenueGrowth": 0.03687435707412031,
       "netMargin": 0.1487742250697936,
@@ -4441,7 +4441,7 @@
       "debtToEquity": 0.42496627681395627,
       "freeCashFlow": 0.295429,
       "fcfGrowth": 0.21974773435725917,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MSCI",
@@ -4455,7 +4455,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.549127,
       "fcfGrowth": 0.05536067690148613,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MSFT",
@@ -4469,7 +4469,7 @@
       "debtToEquity": 0.09108314665666034,
       "freeCashFlow": 66.98700000000001,
       "fcfGrowth": -0.06457108544776634,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MTB",
@@ -4483,7 +4483,7 @@
       "debtToEquity": 0.44761284573465404,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MTCH",
@@ -4497,13 +4497,13 @@
       "debtToEquity": null,
       "freeCashFlow": 1.023615,
       "fcfGrowth": 0.1603757222484841,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MTD",
       "companyName": "METTLER TOLEDO INTERNATIONAL INC/",
       "sector": "Health Care",
-      "score": 46,
+      "score": 44,
       "rating": "Weak",
       "revenueGrowth": 0.03977883260367498,
       "netMargin": 0.21587353861353534,
@@ -4511,13 +4511,13 @@
       "debtToEquity": null,
       "freeCashFlow": 0.848648,
       "fcfGrowth": -0.01827755978381584,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MTDR",
       "companyName": "Matador Resources Co",
       "sector": "Energy & Mining",
-      "score": 69,
+      "score": 70,
       "rating": "Moderate",
       "revenueGrowth": 0.05103712088504663,
       "netMargin": 0.20763519570826203,
@@ -4525,7 +4525,7 @@
       "debtToEquity": 0.6012755779680995,
       "freeCashFlow": 0.2695860000000003,
       "fcfGrowth": 1.1624340830433149,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "MU",
@@ -4539,13 +4539,13 @@
       "debtToEquity": 0.22326225422320686,
       "freeCashFlow": 1.6679999999999993,
       "fcfGrowth": 12.785123966942093,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NCLH",
       "companyName": "Norwegian Cruise Line Holdings Ltd.",
       "sector": "Industrials",
-      "score": 42,
+      "score": 44,
       "rating": "Weak",
       "revenueGrowth": 0.036703988364128456,
       "netMargin": 0.04306711145517641,
@@ -4553,7 +4553,7 @@
       "debtToEquity": null,
       "freeCashFlow": -1.16986,
       "fcfGrowth": -2.3945648377402486,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NDAQ",
@@ -4567,7 +4567,7 @@
       "debtToEquity": 0.7364030424470434,
       "freeCashFlow": 1.9889999999999999,
       "fcfGrowth": 0.1483833718244803,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NDSN",
@@ -4581,13 +4581,13 @@
       "debtToEquity": 0.6558920426039018,
       "freeCashFlow": 0.661115,
       "fcfGrowth": 0.3443225975684395,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NEE",
       "companyName": "NEXTERA ENERGY INC",
       "sector": "Utilities",
-      "score": 61,
+      "score": 63,
       "rating": "Moderate",
       "revenueGrowth": 0.09787234042553195,
       "netMargin": 0.26492248062015505,
@@ -4595,7 +4595,7 @@
       "debtToEquity": 1.70407266334603,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NEM",
@@ -4609,7 +4609,7 @@
       "debtToEquity": 0.1510319780317123,
       "freeCashFlow": 7.2989999999999995,
       "fcfGrowth": 1.4650455927051667,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NET",
@@ -4623,21 +4623,21 @@
       "debtToEquity": null,
       "freeCashFlow": 0.28749700000000006,
       "fcfGrowth": 0.4713857271536196,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NFLX",
       "companyName": "NETFLIX INC",
       "sector": "Consumer Discretionary",
-      "score": 74,
-      "rating": "Moderate",
+      "score": 75,
+      "rating": "Strong",
       "revenueGrowth": 0.15851068919677536,
       "netMargin": 0.24303813935832025,
       "roe": 0.41258687422902035,
       "debtToEquity": 0.5433992418249104,
       "freeCashFlow": 9.461053000000001,
       "fcfGrowth": 0.3668435178809755,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NI",
@@ -4651,7 +4651,7 @@
       "debtToEquity": 0.002084634025036772,
       "freeCashFlow": -0.4200000000000004,
       "fcfGrowth": 0.49549549549549493,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NKE",
@@ -4665,7 +4665,7 @@
       "debtToEquity": 0.5342751429532459,
       "freeCashFlow": 2.1839999999999997,
       "fcfGrowth": -0.33170134638922893,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NOC",
@@ -4679,13 +4679,13 @@
       "debtToEquity": 0.9413458078445485,
       "freeCashFlow": 3.3069999999999995,
       "fcfGrowth": 0.26173216329645155,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NOV",
       "companyName": "NOV Inc.",
       "sector": "Industrials",
-      "score": 45,
+      "score": 46,
       "rating": "Weak",
       "revenueGrowth": -0.014205186020293062,
       "netMargin": 0.016582799634034764,
@@ -4693,7 +4693,7 @@
       "debtToEquity": 0.27409061901723036,
       "freeCashFlow": 0.8759999999999999,
       "fcfGrowth": -0.08079748163693617,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NOW",
@@ -4707,7 +4707,7 @@
       "debtToEquity": null,
       "freeCashFlow": 4.576,
       "fcfGrowth": 0.33997071742313295,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NRG",
@@ -4721,13 +4721,13 @@
       "debtToEquity": null,
       "freeCashFlow": 0.766,
       "fcfGrowth": -0.5823336968375137,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NSC",
       "companyName": "NORFOLK SOUTHERN CORP",
       "sector": "Industrials",
-      "score": 68,
+      "score": 70,
       "rating": "Moderate",
       "revenueGrowth": 0.00470180648354371,
       "netMargin": 0.23587848932676522,
@@ -4735,7 +4735,7 @@
       "debtToEquity": 0.03904290216762076,
       "freeCashFlow": 2.1569999999999996,
       "fcfGrowth": 0.29084380610412913,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NTAP",
@@ -4749,7 +4749,7 @@
       "debtToEquity": 1.840858623242043,
       "freeCashFlow": 1.8690000000000002,
       "fcfGrowth": 0.3968609865470853,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NTRS",
@@ -4763,7 +4763,7 @@
       "debtToEquity": null,
       "freeCashFlow": 5.4595,
       "fcfGrowth": 10.292765957446809,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NUE",
@@ -4777,7 +4777,7 @@
       "debtToEquity": 0.0031524646541841806,
       "freeCashFlow": -0.18800000000000017,
       "fcfGrowth": -1.2332506203473947,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NVDA",
@@ -4791,7 +4791,7 @@
       "debtToEquity": 0.053835835033981164,
       "freeCashFlow": 96.676,
       "fcfGrowth": 0.5886809195931179,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NVR",
@@ -4805,7 +4805,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.0968120000000001,
       "fcfGrowth": -0.1846779409031778,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NWE",
@@ -4819,7 +4819,7 @@
       "debtToEquity": 1.1387051501521273,
       "freeCashFlow": -0.13000100000000003,
       "fcfGrowth": 0.0877314863546726,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NWSA",
@@ -4833,7 +4833,7 @@
       "debtToEquity": 0.23328641801548208,
       "freeCashFlow": 0.8110000000000002,
       "fcfGrowth": 0.4203152364273209,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NXPI",
@@ -4847,7 +4847,7 @@
       "debtToEquity": 1.2153937947494033,
       "freeCashFlow": 2.423,
       "fcfGrowth": 0.1790754257907542,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "NYT",
@@ -4861,7 +4861,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.550505,
       "fcfGrowth": 0.443610540752454,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "O",
@@ -4875,7 +4875,7 @@
       "debtToEquity": null,
       "freeCashFlow": 3.8629539999999998,
       "fcfGrowth": 0.11909185324455043,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ODFL",
@@ -4889,7 +4889,7 @@
       "debtToEquity": 0.004639233487286297,
       "freeCashFlow": 0.955099,
       "fcfGrowth": 0.07560433125179473,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "OGE",
@@ -4903,7 +4903,7 @@
       "debtToEquity": 1.0787374681051978,
       "freeCashFlow": 0.0827,
       "fcfGrowth": 1.2973750449478605,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "OI",
@@ -4917,7 +4917,7 @@
       "debtToEquity": 3.789026275115919,
       "freeCashFlow": 0.16799999999999998,
       "fcfGrowth": 2.3125,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "OKE",
@@ -4931,7 +4931,7 @@
       "debtToEquity": 1.4229931065154546,
       "freeCashFlow": 2.447,
       "fcfGrowth": -0.14649459365190093,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "OKTA",
@@ -4945,7 +4945,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.875,
       "fcfGrowth": 0.17924528301886794,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "OMC",
@@ -4959,7 +4959,7 @@
       "debtToEquity": 0.7749506051901908,
       "freeCashFlow": 2.7884,
       "fcfGrowth": 0.7505179232845755,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ON",
@@ -4973,7 +4973,7 @@
       "debtToEquity": 0.38842479767505506,
       "freeCashFlow": 1.4186,
       "fcfGrowth": 0.1700758825470141,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ORCL",
@@ -4987,7 +4987,7 @@
       "debtToEquity": 0.16935635645055047,
       "freeCashFlow": -23.685999999999996,
       "fcfGrowth": -59.116751269035774,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ORLY",
@@ -5001,7 +5001,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.593178,
       "fcfGrowth": -0.2137071122190477,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "OTIS",
@@ -5015,13 +5015,13 @@
       "debtToEquity": null,
       "freeCashFlow": 1.4440000000000002,
       "fcfGrowth": 0.004871259568545817,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "OVV",
       "companyName": "Ovintiv Inc.",
       "sector": "Energy & Mining",
-      "score": 57,
+      "score": 58,
       "rating": "Weak",
       "revenueGrowth": -0.03130940400313087,
       "netMargin": 0.14336834814729307,
@@ -5029,13 +5029,13 @@
       "debtToEquity": 0.464671728450201,
       "freeCashFlow": 1.5050000000000003,
       "fcfGrowth": 0.061354019746121424,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "OXY",
       "companyName": "OCCIDENTAL PETROLEUM CORP /DE/",
       "sector": "Energy & Mining",
-      "score": 45,
+      "score": 47,
       "rating": "Weak",
       "revenueGrowth": -0.05024218405988559,
       "netMargin": 0.10983355742037185,
@@ -5043,13 +5043,13 @@
       "debtToEquity": 0.5938002997169339,
       "freeCashFlow": 4.105,
       "fcfGrowth": -0.20691653786707875,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PANW",
       "companyName": "Palo Alto Networks Inc",
       "sector": "Technology",
-      "score": 48,
+      "score": 47,
       "rating": "Weak",
       "revenueGrowth": 0.24498427502440087,
       "netMargin": 0.026742160278745642,
@@ -5057,7 +5057,7 @@
       "debtToEquity": null,
       "freeCashFlow": 4.1129999999999995,
       "fcfGrowth": 0.18564427788988158,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PARA",
@@ -5071,7 +5071,7 @@
       "debtToEquity": null,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PAYC",
@@ -5085,7 +5085,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.408,
       "fcfGrowth": 0.19648093841642192,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PAYX",
@@ -5099,7 +5099,7 @@
       "debtToEquity": 1.2198066986158336,
       "freeCashFlow": 2.3218,
       "fcfGrowth": 0.3584927739746065,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PCAR",
@@ -5113,7 +5113,7 @@
       "debtToEquity": null,
       "freeCashFlow": 3.6728,
       "fcfGrowth": -0.034032928304665706,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PEG",
@@ -5127,13 +5127,13 @@
       "debtToEquity": 1.327582145801437,
       "freeCashFlow": 0.026000000000000245,
       "fcfGrowth": 1.0208500400962313,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PEP",
       "companyName": "PEPSICO INC",
       "sector": "Consumer Staples",
-      "score": 47,
+      "score": 48,
       "rating": "Weak",
       "revenueGrowth": 0.022546650118666557,
       "netMargin": 0.0877295714665957,
@@ -5141,7 +5141,7 @@
       "debtToEquity": 2.4101734783887094,
       "freeCashFlow": 7.672,
       "fcfGrowth": 0.0671859785783836,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PFE",
@@ -5155,7 +5155,7 @@
       "debtToEquity": 0.747467505435034,
       "freeCashFlow": 9.075000000000001,
       "fcfGrowth": -0.07727503812913063,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PFG",
@@ -5169,7 +5169,7 @@
       "debtToEquity": 0.3327190568752682,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PG",
@@ -5183,7 +5183,7 @@
       "debtToEquity": 0.5394671429360535,
       "freeCashFlow": 15.147000000000002,
       "fcfGrowth": 0.07853887781258911,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PGR",
@@ -5197,7 +5197,7 @@
       "debtToEquity": 0,
       "freeCashFlow": 17.2,
       "fcfGrowth": 0.15949844950788727,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PH",
@@ -5211,7 +5211,7 @@
       "debtToEquity": 0.5309010646585303,
       "freeCashFlow": 3.905,
       "fcfGrowth": 0.16881173301406768,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PHM",
@@ -5225,7 +5225,7 @@
       "debtToEquity": 0.003380708950838947,
       "freeCashFlow": 1.748533,
       "fcfGrowth": 0.11924091486056314,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PII",
@@ -5239,7 +5239,7 @@
       "debtToEquity": 1.8232737807822308,
       "freeCashFlow": 0.5581,
       "fcfGrowth": 84.8615384615384,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PINS",
@@ -5253,7 +5253,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.251889,
       "fcfGrowth": 0.33181381038906893,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PKG",
@@ -5267,7 +5267,7 @@
       "debtToEquity": 0.8628316659417138,
       "freeCashFlow": 0.7286000000000001,
       "fcfGrowth": 0.3971236816874401,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PLD",
@@ -5281,7 +5281,7 @@
       "debtToEquity": 0.6586760618062715,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PLTR",
@@ -5295,7 +5295,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.1005909999999997,
       "fcfGrowth": 0.8406361201194148,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PM",
@@ -5309,7 +5309,7 @@
       "debtToEquity": null,
       "freeCashFlow": 10.664000000000001,
       "fcfGrowth": -0.010117887310869602,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PNC",
@@ -5323,7 +5323,7 @@
       "debtToEquity": 0.942494016670793,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PNR",
@@ -5337,7 +5337,7 @@
       "debtToEquity": 0.4234983976015714,
       "freeCashFlow": 0.746,
       "fcfGrowth": 0.0775675285280947,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PNW",
@@ -5351,13 +5351,13 @@
       "debtToEquity": 1.3915751715258928,
       "freeCashFlow": -0.819523,
       "fcfGrowth": -0.28176241687155557,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PODD",
       "companyName": "INSULET CORP",
       "sector": "Health Care",
-      "score": 73,
+      "score": 72,
       "rating": "Moderate",
       "revenueGrowth": 0.30725043444680433,
       "netMargin": 0.09124478416602046,
@@ -5365,7 +5365,7 @@
       "debtToEquity": 0.012143611404435057,
       "freeCashFlow": 0.37770000000000004,
       "fcfGrowth": 0.2371437929905012,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "POOL",
@@ -5379,7 +5379,7 @@
       "debtToEquity": 1.0120010563359485,
       "freeCashFlow": 0.309516,
       "fcfGrowth": -0.48389054709776397,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "POR",
@@ -5393,7 +5393,7 @@
       "debtToEquity": 1.1279941930800872,
       "freeCashFlow": -0.07099999999999995,
       "fcfGrowth": 0.8551020408163267,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PPG",
@@ -5407,7 +5407,7 @@
       "debtToEquity": 0.9197834025941318,
       "freeCashFlow": 1.163,
       "fcfGrowth": 0.6638054363376253,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PPL",
@@ -5421,7 +5421,7 @@
       "debtToEquity": 1.2696727370472414,
       "freeCashFlow": -1.4010000000000002,
       "fcfGrowth": -2.01290322580645,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PRU",
@@ -5435,7 +5435,7 @@
       "debtToEquity": 0.6257784080399531,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PSA",
@@ -5449,7 +5449,7 @@
       "debtToEquity": 1.1087520631202337,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PSX",
@@ -5463,7 +5463,7 @@
       "debtToEquity": 0.035678685594472896,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PTC",
@@ -5477,7 +5477,7 @@
       "debtToEquity": 0.3129540861250072,
       "freeCashFlow": 0.856688,
       "fcfGrowth": 0.1646017025418499,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PVH",
@@ -5491,7 +5491,7 @@
       "debtToEquity": 0.4808755712288463,
       "freeCashFlow": 0.5384,
       "fcfGrowth": -0.07523187907935427,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PWR",
@@ -5505,7 +5505,7 @@
       "debtToEquity": 0.08546394265812017,
       "freeCashFlow": 1.6208159999999998,
       "fcfGrowth": 0.09728268154609171,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "PYPL",
@@ -5519,7 +5519,7 @@
       "debtToEquity": 0.49303909952606634,
       "freeCashFlow": 5.564,
       "fcfGrowth": -0.1777744938672972,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "QCOM",
@@ -5533,7 +5533,7 @@
       "debtToEquity": 0.6984344053569744,
       "freeCashFlow": 12.82,
       "fcfGrowth": 0.14864259474957447,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "QRVO",
@@ -5547,7 +5547,7 @@
       "debtToEquity": 0.46322233747640384,
       "freeCashFlow": 0.679561,
       "fcfGrowth": 0.4023074605552596,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RBLX",
@@ -5561,7 +5561,7 @@
       "debtToEquity": 2.554724652964379,
       "freeCashFlow": 1.3553799999999998,
       "fcfGrowth": 1.1089828372259474,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RCL",
@@ -5575,7 +5575,7 @@
       "debtToEquity": 0.3168277373717246,
       "freeCashFlow": 1.2359999999999998,
       "fcfGrowth": -0.38107160741111673,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "REG",
@@ -5589,7 +5589,7 @@
       "debtToEquity": 0.6861700417988416,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "REGN",
@@ -5603,7 +5603,7 @@
       "debtToEquity": 0.06353477152244784,
       "freeCashFlow": 4.080500000000001,
       "fcfGrowth": 0.11349124051738282,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RF",
@@ -5617,13 +5617,13 @@
       "debtToEquity": 0.1313434464694969,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RIVN",
       "companyName": "Rivian Automotive, Inc. / DE",
       "sector": "Industrials",
-      "score": 43,
+      "score": 46,
       "rating": "Weak",
       "revenueGrowth": 0.0839034205231388,
       "netMargin": -0.6768145535548543,
@@ -5631,13 +5631,13 @@
       "debtToEquity": 0.9664780148019155,
       "freeCashFlow": -2.489,
       "fcfGrowth": 0.1288064403220162,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RJF",
       "companyName": "RAYMOND JAMES FINANCIAL INC",
       "sector": "Financials",
-      "score": 54,
+      "score": 58,
       "rating": "Weak",
       "revenueGrowth": 0.06627353749246136,
       "netMargin": 0.13417546505781797,
@@ -5645,7 +5645,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.246,
       "fcfGrowth": 0.15179487179487194,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RL",
@@ -5659,13 +5659,13 @@
       "debtToEquity": 0.4360174561835714,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RMD",
       "companyName": "RESMED INC",
       "sector": "Health Care",
-      "score": 78,
+      "score": 77,
       "rating": "Strong",
       "revenueGrowth": 0.09853940489984407,
       "netMargin": 0.26944518588053334,
@@ -5673,7 +5673,7 @@
       "debtToEquity": 0.10012538355721519,
       "freeCashFlow": 1.649544,
       "fcfGrowth": -0.0073291396941607845,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ROK",
@@ -5687,7 +5687,7 @@
       "debtToEquity": 0.715927750410509,
       "freeCashFlow": 1.358,
       "fcfGrowth": 1.1251956181533647,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ROL",
@@ -5701,13 +5701,13 @@
       "debtToEquity": 0.4437318501281724,
       "freeCashFlow": 0.650021,
       "fcfGrowth": 0.12056936876056966,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ROP",
       "companyName": "ROPER TECHNOLOGIES INC",
       "sector": "Health Care",
-      "score": 70,
+      "score": 73,
       "rating": "Moderate",
       "revenueGrowth": 0.122641777474713,
       "netMargin": 0.1944068332806074,
@@ -5715,7 +5715,7 @@
       "debtToEquity": 0.4678218444282373,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ROST",
@@ -5729,7 +5729,7 @@
       "debtToEquity": 0.24527191604027707,
       "freeCashFlow": 2.2076080000000005,
       "fcfGrowth": 0.3486649023388345,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RPM",
@@ -5743,7 +5743,7 @@
       "debtToEquity": 0.12315565026831983,
       "freeCashFlow": 0.6752009999999999,
       "fcfGrowth": 0.2544142236094078,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RRC",
@@ -5757,7 +5757,7 @@
       "debtToEquity": 0.2774768499919304,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RS",
@@ -5771,7 +5771,7 @@
       "debtToEquity": 0.19817017893753228,
       "freeCashFlow": 0.5025,
       "fcfGrowth": -0.49709767814251404,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RSG",
@@ -5785,7 +5785,7 @@
       "debtToEquity": 1.1455548128342248,
       "freeCashFlow": 2.4090000000000003,
       "fcfGrowth": 0.157616530514176,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RTX",
@@ -5799,7 +5799,7 @@
       "debtToEquity": 0.00312667637366848,
       "freeCashFlow": 7.94,
       "fcfGrowth": 0.7512130569033967,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "RVTY",
@@ -5813,7 +5813,7 @@
       "debtToEquity": 0.44412470553186323,
       "freeCashFlow": 0.5094110000000001,
       "fcfGrowth": -0.0595217215513311,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SANM",
@@ -5827,7 +5827,7 @@
       "debtToEquity": 0.11833584531595649,
       "freeCashFlow": 0.47330000000000005,
       "fcfGrowth": 1.0669115110332814,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SBUX",
@@ -5841,7 +5841,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.4419999999999997,
       "fcfGrowth": -0.2640366474789791,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SCHW",
@@ -5855,7 +5855,7 @@
       "debtToEquity": null,
       "freeCashFlow": 8.763,
       "fcfGrowth": 3.2746341463414637,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SEDG",
@@ -5869,7 +5869,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.080794,
       "fcfGrowth": 1.1916902738432484,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SHOP",
@@ -5883,7 +5883,7 @@
       "debtToEquity": null,
       "freeCashFlow": 2.007,
       "fcfGrowth": 0.2567313713212272,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SHW",
@@ -5897,7 +5897,7 @@
       "debtToEquity": 2.103125067959898,
       "freeCashFlow": 2.654,
       "fcfGrowth": 0.2740015360983104,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SJM",
@@ -5911,13 +5911,13 @@
       "debtToEquity": 1.1802013059634184,
       "freeCashFlow": 1.1562000000000001,
       "fcfGrowth": 0.41587068332108756,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SLB",
       "companyName": "SLB LIMITED/NV",
       "sector": "Energy & Mining",
-      "score": 57,
+      "score": 58,
       "rating": "Weak",
       "revenueGrowth": -0.016010361266499573,
       "netMargin": 0.09448862999887982,
@@ -5925,7 +5925,7 @@
       "debtToEquity": 0.37312804013941553,
       "freeCashFlow": 4.795,
       "fcfGrowth": 0.026546777991864626,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SMCI",
@@ -5939,7 +5939,7 @@
       "debtToEquity": null,
       "freeCashFlow": -6.971884999999999,
       "fcfGrowth": -5.549918097512904,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SNA",
@@ -5953,7 +5953,7 @@
       "debtToEquity": 0.2000067433156883,
       "freeCashFlow": 1.0057,
       "fcfGrowth": -0.11313932980599653,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SNAP",
@@ -5967,7 +5967,7 @@
       "debtToEquity": 1.5502243046774153,
       "freeCashFlow": 0.43718900000000005,
       "fcfGrowth": 0.9994557611568964,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SNOW",
@@ -5981,7 +5981,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.120314,
       "fcfGrowth": 0.22641751096077115,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SNPS",
@@ -5995,7 +5995,7 @@
       "debtToEquity": 0.4760203493398418,
       "freeCashFlow": 1.349154,
       "fcfGrowth": 0.0643969487088657,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SO",
@@ -6009,7 +6009,7 @@
       "debtToEquity": 0.02004664593513994,
       "freeCashFlow": -2.9350000000000005,
       "fcfGrowth": -4.523409363745498,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SOFI",
@@ -6023,7 +6023,7 @@
       "debtToEquity": null,
       "freeCashFlow": -3.984902,
       "fcfGrowth": -2.1276898008903733,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SOLV",
@@ -6037,7 +6037,7 @@
       "debtToEquity": 0.9972271736977619,
       "freeCashFlow": -0.010000000000000009,
       "fcfGrowth": -1.0124223602484472,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SPG",
@@ -6051,7 +6051,7 @@
       "debtToEquity": 5.458662073457049,
       "freeCashFlow": 3.2022049999999997,
       "fcfGrowth": 0.04679002219954993,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SPGI",
@@ -6065,7 +6065,7 @@
       "debtToEquity": 0.4204709737526906,
       "freeCashFlow": 5.4559999999999995,
       "fcfGrowth": -0.019586702605570685,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SR",
@@ -6079,7 +6079,7 @@
       "debtToEquity": 1.1379300171121731,
       "freeCashFlow": -0.34440000000000004,
       "fcfGrowth": -7.739726027397256,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "STLD",
@@ -6093,7 +6093,7 @@
       "debtToEquity": 0.4701437349380643,
       "freeCashFlow": 0.5015090000000001,
       "fcfGrowth": 22.33808449985104,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "STT",
@@ -6107,7 +6107,7 @@
       "debtToEquity": null,
       "freeCashFlow": 10.843,
       "fcfGrowth": 1.7670486700622523,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "STX",
@@ -6121,7 +6121,7 @@
       "debtToEquity": 1.645131518227965,
       "freeCashFlow": 3.105,
       "fcfGrowth": 2.795843520782396,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "STZ",
@@ -6135,7 +6135,7 @@
       "debtToEquity": 1.2739409086409978,
       "freeCashFlow": 1.794,
       "fcfGrowth": -0.0743511686703473,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SWK",
@@ -6149,7 +6149,7 @@
       "debtToEquity": 0.580710357166523,
       "freeCashFlow": 0.6879,
       "fcfGrowth": -0.08645418326693233,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SWKS",
@@ -6163,7 +6163,7 @@
       "debtToEquity": 0.17296902954612564,
       "freeCashFlow": 1.1058,
       "fcfGrowth": -0.33693110271631593,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SYK",
@@ -6177,7 +6177,7 @@
       "debtToEquity": 0.7073595004460302,
       "freeCashFlow": 4.2829999999999995,
       "fcfGrowth": 0.22827645540579275,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "SYY",
@@ -6191,7 +6191,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.938,
       "fcfGrowth": 0.20822942643391545,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "T",
@@ -6205,7 +6205,7 @@
       "debtToEquity": 1.136278470405009,
       "freeCashFlow": 19.442,
       "fcfGrowth": 0.050464663929111794,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TAP",
@@ -6219,7 +6219,7 @@
       "debtToEquity": 0.6119175390751005,
       "freeCashFlow": 1.0678,
       "fcfGrowth": -0.13622391198835146,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TDY",
@@ -6233,7 +6233,7 @@
       "debtToEquity": 0.23544070230837275,
       "freeCashFlow": 1.074,
       "fcfGrowth": -0.030860855441256097,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TEAM",
@@ -6247,7 +6247,7 @@
       "debtToEquity": 0.9349213277628816,
       "freeCashFlow": 1.319075,
       "fcfGrowth": -0.06814911309652903,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TEL",
@@ -6261,7 +6261,7 @@
       "debtToEquity": 0.45244338498212155,
       "freeCashFlow": 3.2030000000000003,
       "fcfGrowth": 0.14515552377547394,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TER",
@@ -6275,7 +6275,7 @@
       "debtToEquity": 0.07153710343406712,
       "freeCashFlow": 0.450406,
       "fcfGrowth": -0.049938723551460625,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TFC",
@@ -6289,7 +6289,7 @@
       "debtToEquity": 1.0707634723649697,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TGT",
@@ -6303,7 +6303,7 @@
       "debtToEquity": 0.8906897618311166,
       "freeCashFlow": 2.8350000000000004,
       "fcfGrowth": -0.366621983914209,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TJX",
@@ -6317,13 +6317,13 @@
       "debtToEquity": 0.28155053974484795,
       "freeCashFlow": 4.917,
       "fcfGrowth": 0.17127203430204868,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TMO",
       "companyName": "THERMO FISHER SCIENTIFIC INC.",
       "sector": "Health Care",
-      "score": 47,
+      "score": 44,
       "rating": "Weak",
       "revenueGrowth": 0.039110053872525,
       "netMargin": 0.15046233952778526,
@@ -6331,7 +6331,7 @@
       "debtToEquity": 0.7996142827719213,
       "freeCashFlow": 6.292999999999999,
       "fcfGrowth": -0.13403054905738274,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TMUS",
@@ -6345,7 +6345,7 @@
       "debtToEquity": 1.4573923618735536,
       "freeCashFlow": 17.994999999999997,
       "fcfGrowth": 0.3376198617408755,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TPR",
@@ -6359,7 +6359,7 @@
       "debtToEquity": 3.4627943938737173,
       "freeCashFlow": 1.8125,
       "fcfGrowth": 0.6569156230002744,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TRGP",
@@ -6373,7 +6373,7 @@
       "debtToEquity": 5.682225626650152,
       "freeCashFlow": 0.5841000000000003,
       "fcfGrowth": -0.14592776721742898,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TRMB",
@@ -6387,7 +6387,7 @@
       "debtToEquity": 0.23854562900517462,
       "freeCashFlow": 0.3609,
       "fcfGrowth": -0.27501004419445557,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TRV",
@@ -6401,7 +6401,7 @@
       "debtToEquity": 0.009120204292576154,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TSLA",
@@ -6415,7 +6415,7 @@
       "debtToEquity": 0.09926099078369068,
       "freeCashFlow": 6.220000000000001,
       "fcfGrowth": 0.7369449874336782,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TSN",
@@ -6429,7 +6429,7 @@
       "debtToEquity": 0.05026264860381532,
       "freeCashFlow": 1.1769999999999998,
       "fcfGrowth": -0.192729766803841,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TT",
@@ -6443,7 +6443,7 @@
       "debtToEquity": 0.5379406005221932,
       "freeCashFlow": 2.8115,
       "fcfGrowth": 0.013153153153153225,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TTWO",
@@ -6457,7 +6457,7 @@
       "debtToEquity": 0.7171950212196303,
       "freeCashFlow": 0.46149999999999997,
       "fcfGrowth": 3.1505125815470643,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TW",
@@ -6471,13 +6471,13 @@
       "debtToEquity": null,
       "freeCashFlow": 1.127094,
       "fcfGrowth": 0.31549835955745986,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TWLO",
       "companyName": "TWILIO INC",
       "sector": "Technology",
-      "score": 64,
+      "score": 63,
       "rating": "Moderate",
       "revenueGrowth": 0.13664851517574106,
       "netMargin": 0.006677033955502229,
@@ -6485,7 +6485,7 @@
       "debtToEquity": 0.12686583956675573,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TXN",
@@ -6499,13 +6499,13 @@
       "debtToEquity": 0.8632704479813188,
       "freeCashFlow": 2.6029999999999998,
       "fcfGrowth": 0.7376502002670233,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TXT",
       "companyName": "TEXTRON INC",
       "sector": "Industrials",
-      "score": 50,
+      "score": 52,
       "rating": "Weak",
       "revenueGrowth": 0.0800613049189899,
       "netMargin": 0.06223393472531928,
@@ -6513,7 +6513,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.929,
       "fcfGrowth": 0.42923076923076925,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "TYL",
@@ -6527,7 +6527,7 @@
       "debtToEquity": 0.1619490065461467,
       "freeCashFlow": 0.637528,
       "fcfGrowth": 0.05533870332297071,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UAL",
@@ -6541,7 +6541,7 @@
       "debtToEquity": 1.391571783797932,
       "freeCashFlow": 2.5569999999999995,
       "fcfGrowth": -0.3323759791122717,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UBER",
@@ -6555,7 +6555,7 @@
       "debtToEquity": 0.3890758477866943,
       "freeCashFlow": 9.763,
       "fcfGrowth": 0.41595358955765055,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UDR",
@@ -6569,7 +6569,7 @@
       "debtToEquity": 1.7702406170422524,
       "freeCashFlow": 0.65003,
       "fcfGrowth": 0.03679329847741965,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UHS",
@@ -6583,7 +6583,7 @@
       "debtToEquity": 0.6532005038076955,
       "freeCashFlow": 0.849245,
       "fcfGrowth": -0.2439670575122564,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ULTA",
@@ -6597,7 +6597,7 @@
       "debtToEquity": 0.022217973490530066,
       "freeCashFlow": 1.0679509999999999,
       "fcfGrowth": 0.10766408026991711,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UNH",
@@ -6611,7 +6611,7 @@
       "debtToEquity": 0.783185133379958,
       "freeCashFlow": 16.075,
       "fcfGrowth": -0.2236174836995896,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UNM",
@@ -6625,7 +6625,7 @@
       "debtToEquity": 0.3388403737712585,
       "freeCashFlow": 0.5554,
       "fcfGrowth": -0.5997117117117118,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UNP",
@@ -6639,7 +6639,7 @@
       "debtToEquity": 1.722748686846808,
       "freeCashFlow": 5.498999999999999,
       "fcfGrowth": -0.06701730573464564,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UPS",
@@ -6653,7 +6653,7 @@
       "debtToEquity": 1.4909102113761017,
       "freeCashFlow": 4.764999999999999,
       "fcfGrowth": -0.23305971350394356,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "UPST",
@@ -6667,21 +6667,21 @@
       "debtToEquity": null,
       "freeCashFlow": -0.14807199999999998,
       "fcfGrowth": -1.7982576255835767,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "URI",
       "companyName": "UNITED RENTALS, INC.",
       "sector": "Technology",
-      "score": 60,
-      "rating": "Moderate",
+      "score": 58,
+      "rating": "Weak",
       "revenueGrowth": 0.029821627647714538,
       "netMargin": 0.6749661705006766,
       "roe": 0.27809991079393404,
       "debtToEquity": 1.770628902765388,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "USB",
@@ -6695,7 +6695,7 @@
       "debtToEquity": 0.2632491218382342,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "V",
@@ -6709,7 +6709,7 @@
       "debtToEquity": 0.6639848057189586,
       "freeCashFlow": 21.577,
       "fcfGrowth": 0.1542823516824482,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VFC",
@@ -6723,7 +6723,7 @@
       "debtToEquity": 1.9027579116028193,
       "freeCashFlow": 0.556567,
       "fcfGrowth": 0.46866176555960776,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VICI",
@@ -6737,7 +6737,7 @@
       "debtToEquity": 0.6034052171335408,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VIRT",
@@ -6751,21 +6751,21 @@
       "debtToEquity": 1.2889401932276165,
       "freeCashFlow": 0.495584,
       "fcfGrowth": -0.15510668912514244,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VLO",
       "companyName": "VALERO ENERGY CORP/TX",
       "sector": "Energy & Mining",
-      "score": 40,
-      "rating": "Weak",
+      "score": 39,
+      "rating": "High Risk",
       "revenueGrowth": -0.05538916392697933,
       "netMargin": 0.019138131994424837,
       "roe": 0.09896733403582718,
       "debtToEquity": 0.38819810326659643,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VLTO",
@@ -6779,13 +6779,13 @@
       "debtToEquity": 0.8608695652173913,
       "freeCashFlow": 1.014,
       "fcfGrowth": 0.23658536585365864,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VMC",
       "companyName": "Vulcan Materials CO",
       "sector": "Energy & Mining",
-      "score": 62,
+      "score": 63,
       "rating": "Moderate",
       "revenueGrowth": 0.0705609555522601,
       "netMargin": 0.13558575008500082,
@@ -6793,7 +6793,7 @@
       "debtToEquity": 0.5116772823779193,
       "freeCashFlow": 1.1353,
       "fcfGrowth": 0.40838605632055586,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VRSK",
@@ -6807,7 +6807,7 @@
       "debtToEquity": 20.331391585760517,
       "freeCashFlow": 1.1919,
       "fcfGrowth": 0.29540267362243244,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VRSN",
@@ -6821,7 +6821,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.0683,
       "fcfGrowth": 0.2216123499142368,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VRTX",
@@ -6835,7 +6835,7 @@
       "debtToEquity": null,
       "freeCashFlow": 3.1938000000000004,
       "fcfGrowth": 5.041250158167785,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VTR",
@@ -6849,7 +6849,7 @@
       "debtToEquity": 1.0386168460076601,
       "freeCashFlow": -1.281343,
       "fcfGrowth": -0.06762746859215897,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VTRS",
@@ -6863,7 +6863,7 @@
       "debtToEquity": 0.9797842474832272,
       "freeCashFlow": 1.9371,
       "fcfGrowth": -0.020132530729930726,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "VZ",
@@ -6877,7 +6877,7 @@
       "debtToEquity": 0.17607172241609215,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "W",
@@ -6891,7 +6891,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.464,
       "fcfGrowth": 0.9016393442622952,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WAT",
@@ -6905,7 +6905,7 @@
       "debtToEquity": 0.3699162359511518,
       "freeCashFlow": 0.53981,
       "fcfGrowth": -0.1288356825392727,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WBD",
@@ -6919,7 +6919,7 @@
       "debtToEquity": 0.9105487346529694,
       "freeCashFlow": 3.088,
       "fcfGrowth": -0.3024621639936751,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WCN",
@@ -6933,7 +6933,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.234841,
       "fcfGrowth": 0.052775123002986424,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WDAY",
@@ -6947,7 +6947,7 @@
       "debtToEquity": 0.3827033952594491,
       "freeCashFlow": 2.777,
       "fcfGrowth": 0.2668795620437958,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WDC",
@@ -6961,7 +6961,7 @@
       "debtToEquity": 0.11868231046931407,
       "freeCashFlow": 3.5109999999999997,
       "fcfGrowth": 1.7451133698201713,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WEC",
@@ -6975,7 +6975,7 @@
       "debtToEquity": 1.4244492200842536,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WELL",
@@ -6989,7 +6989,7 @@
       "debtToEquity": 0.4556736470014431,
       "freeCashFlow": 1.8314139999999999,
       "fcfGrowth": 0.3092048967920651,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WES",
@@ -7003,7 +7003,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.4946339999999998,
       "fcfGrowth": 0.14706785243943973,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WFC",
@@ -7017,7 +7017,7 @@
       "debtToEquity": 1.7725064197504554,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WHR",
@@ -7031,7 +7031,7 @@
       "debtToEquity": 2.2630227439471753,
       "freeCashFlow": 0.08099999999999996,
       "fcfGrowth": -0.7890625000000001,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WM",
@@ -7045,7 +7045,7 @@
       "debtToEquity": 0.07117117117117117,
       "freeCashFlow": 2.8160000000000003,
       "fcfGrowth": 0.30430754979157043,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WMB",
@@ -7059,7 +7059,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.005,
       "fcfGrowth": -0.5814244064972929,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WMT",
@@ -7073,7 +7073,7 @@
       "debtToEquity": 0.383127377857193,
       "freeCashFlow": 14.922999999999998,
       "fcfGrowth": 0.17875197472353888,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WRB",
@@ -7087,13 +7087,13 @@
       "debtToEquity": null,
       "freeCashFlow": null,
       "fcfGrowth": null,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WST",
       "companyName": "WEST PHARMACEUTICAL SERVICES INC",
       "sector": "Health Care",
-      "score": 64,
+      "score": 63,
       "rating": "Moderate",
       "revenueGrowth": 0.06252592285358766,
       "netMargin": 0.1605998503627078,
@@ -7101,7 +7101,7 @@
       "debtToEquity": 0.06385390428211588,
       "freeCashFlow": 0.46890000000000004,
       "fcfGrowth": 0.6964544138929091,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "WTW",
@@ -7115,13 +7115,13 @@
       "debtToEquity": 0.7906218655967904,
       "freeCashFlow": 1.5459999999999998,
       "fcfGrowth": 0.22020520915548536,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "XEL",
       "companyName": "XCEL ENERGY INC",
       "sector": "Utilities",
-      "score": 47,
+      "score": 48,
       "rating": "Weak",
       "revenueGrowth": 0.011662574535250868,
       "netMargin": 0.10930051139811041,
@@ -7129,7 +7129,7 @@
       "debtToEquity": 0.08492881688757978,
       "freeCashFlow": -0.835,
       "fcfGrowth": -6.076271186440658,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "XYL",
@@ -7143,7 +7143,7 @@
       "debtToEquity": 0.16916376306620207,
       "freeCashFlow": 0.9100000000000001,
       "fcfGrowth": -0.03397027600849237,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "YUM",
@@ -7157,7 +7157,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.6389999999999998,
       "fcfGrowth": 0.14455307262569822,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ZBH",
@@ -7171,7 +7171,7 @@
       "debtToEquity": 0.5921623601124614,
       "freeCashFlow": 1.4726000000000001,
       "fcfGrowth": 0.13661623958011734,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ZION",
@@ -7185,7 +7185,7 @@
       "debtToEquity": 0.4323119777158775,
       "freeCashFlow": 0.952,
       "fcfGrowth": -0.09419600380589913,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ZM",
@@ -7199,7 +7199,7 @@
       "debtToEquity": null,
       "freeCashFlow": 1.9240869999999999,
       "fcfGrowth": 0.06376731308065019,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ZS",
@@ -7213,7 +7213,7 @@
       "debtToEquity": null,
       "freeCashFlow": 0.8523499999999999,
       "fcfGrowth": 0.054626262526277496,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     },
     {
       "ticker": "ZTS",
@@ -7227,7 +7227,7 @@
       "debtToEquity": 2.7145001501050734,
       "freeCashFlow": 2.283,
       "fcfGrowth": -0.0065274151436031875,
-      "dataDate": "2026-09-14"
+      "dataDate": "2026-09-21"
     }
   ]
 }
